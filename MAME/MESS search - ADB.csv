@@ -1,0 +1,1462 @@
+list;description;year;publisher;cloneof;is_supported;compatibility;category
+="a2600";="3-D Genesis (Prototype)";="1983";Amiga;-;YES;NTSC;-
+="a2600";="3-D Ghost Attack (Prototype)";="1983";Amiga;-;YES;NTSC;-
+="a2600";="3-D Havoc (Prototype)";="1983";Amiga;-;YES;NTSC;-
+="a2600";="3-D Tic-Tac-Toe";="1978";Atari;-;YES;NTSC;-
+="a2600";="4 in 1 - Canyon Bomber + Home Run + Night Driver + Sky Diver (Prototype 19870219)";="1987";Atari;-;YES;NTSC;-
+="a2600";="8 in 1 - Asteroids + Centipede + BattleZone + SwordQuest - EarthWorld + SwordQuest - FireWorld + RealSports Soccer + RealSports Tennis + Yars' Revenge (Prototype 19920116)";="1988";Atari;-;YES;-;-
+="a2600";="A Misterious Thief";="1983";CCE;mysthief;YES;-;-
+="a2600";="A Misterious Thief (Alt)";="1983";CCE;mysthief;YES;-;-
+="a2600";="A Mysterious Thief (Prototype, Alt)";="1983";ZiMAG;mysthief;YES;-;-
+="a2600";="A Mysterious Thief (Prototype)";="1983";ZiMAG;-;YES;-;-
+="a2600";="Abre-te, Sesamo!";="1983";CCE;opsesame;YES;NTSC;-
+="a2600";Adventure;="1978";Atari;-;YES;NTSC;-
+="a2600";="Adventure +";="2003";Homebrew;-;YES;NTSC;-
+="a2600";="Adventure II (Flashback 2)";="2005";="Syzygy Company";-;YES;NTSC;-
+="a2600";="Adventures of Tron";="1983";Mattel;-;YES;NTSC;-
+="a2600";="Air Raiders";="1982";Mattel;-;YES;NTSC;-
+="a2600";="Air Raiders (PAL) (Unknown)";="19??";-;airraids;YES;-;-
+="a2600";="Air-Sea Battle";="1977";Atari;-;YES;NTSC;-
+="a2600";Airlock;="1982";="Data Age";-;YES;NTSC;-
+="a2600";="Airlock (Prototype)";="1982";="Data Age";airlock;YES;NTSC;-
+="a2600";="Alien (20th Century Fox)";="1982";="20th Century Fox";-;YES;NTSC;-
+="a2600";="Alien (CCE)";="1982";CCE;alien;YES;NTSC;-
+="a2600";="Alpha Beam with Ernie";="1983";Atari;-;YES;NTSC;-
+="a2600";="Alpha Beam with Ernie (Prototype 19831222)";="1983";Atari;abwernie;YES;NTSC;-
+="a2600";Amidar;="1983";="Parker Bros";-;YES;NTSC;-
+="a2600";="AndroMan on the Moon (Prototype)";="1984";="Western Technologies";-;YES;-;-
+="a2600";="Apples and Dolls";="198?";CCE;opsesame;YES;NTSC;-
+="a2600";="Aquatak (PAL)";="1983";="John Sands Electronics";-;YES;-;-
+="a2600";Aquaventure;="198?";CCE;-;YES;NTSC;-
+="a2600";="Aquaventure (Prototype)";="1983";Atari;aquavent;YES;NTSC;-
+="a2600";="Armor Ambush";="1982";Mattel;-;YES;NTSC;-
+="a2600";="Artillery Duel";="1983";Xonox;-;YES;NTSC;-
+="a2600";="Ases do Ar";="198?";Dismac;skyjink;YES;NTSC;-
+="a2600";Assault;="1983";Bomb;-;YES;NTSC;-
+="a2600";="Asterix (NTSC, Prototype)";="1983";Atari;taz;YES;-;-
+="a2600";="Asteroid Belt (PAL)";="19??";Suntek;-;YES;-;-
+="a2600";="Asteroid Fire (PAL)";="1983";="Gem International Corp.";-;YES;-;-
+="a2600";Asteroids;="1981";Atari;-;YES;NTSC;-
+="a2600";="Asteroids (Older?)";="1981";Atari;asteroid;YES;-;-
+="a2600";="Astro Attack";="1983";Goliath;timewarp;YES;NTSC;-
+="a2600";Astroblast;="1982";Mattel;-;YES;NTSC;-
+="a2600";="Astroblast (Alt)";="1982";Mattel;astrblst;YES;-;-
+="a2600";Astrowar;="1983";Starsoft;-;YES;NTSC;-
+="a2600";="Astrowar (PAL)";="1983";Goliath;astrowar;YES;-;-
+="a2600";="Atari VCS Point-of-Purchase ROM";="1982";Atari;-;YES;-;-
+="a2600";="Atari Video Cube";="1982";Atari;-;YES;-;-
+="a2600";="Atlantis (Activision)";="1982";Activision;atlantis;YES;NTSC;-
+="a2600";="Atlantis (CCE)";="1982";CCE;atlantis;YES;NTSC;-
+="a2600";="Atlantis (CCE) (Alt)";="1983";CCE;atlantis;YES;NTSC;-
+="a2600";="Atlantis (Dactari / Milmar)";="1982";="Dactari - Milmar";atlantis;YES;NTSC;-
+="a2600";="Atlantis (Digitel)";="1982";Digitel;atlantis;YES;NTSC;-
+="a2600";="Atlantis (Dynacom)";="1982";Dynacom;atlantis;YES;NTSC;-
+="a2600";="Atlantis (Imagic)";="1982";Imagic;-;YES;NTSC;-
+="a2600";="Atlantis II";="1982";Imagic;atlantis;YES;NTSC;-
+="a2600";="Atom Smasher (Prototype)";="1984";="Video Soft";-;YES;NTSC;-
+="a2600";="Bachelor Party";="1982";Mystique;-;YES;NTSC;-
+="a2600";="Bachelorette Party";="1982";="PlayAround / JHM";btcprty;YES;NTSC;-
+="a2600";Backgammon;="1979";Atari;-;YES;NTSC;-
+="a2600";="Bank Heist";="1983";="20th Century Fox";-;YES;NTSC;-
+="a2600";Barnstorming;="1982";Activision;-;YES;NTSC;-
+="a2600";="Barnstorming (CCE)";="1982";CCE;barnstrm;YES;NTSC;-
+="a2600";="Barnstorming (PAL) (Unknown)";="19??";-;barnstrm;YES;-;-
+="a2600";="BASIC Programming";="1978";Atari;-;YES;-;-
+="a2600";="BASIC Programming (PAL)";="1978";Telegames;basprog;YES;-;-
+="a2600";Basketball;="1978";Atari;-;YES;-;-
+="a2600";="Basketball (PAL)";="1978";Atari;bsktball;YES;-;-
+="a2600";Battlezone;="1983";Atari;-;YES;-;-
+="a2600";="Battlezone (PAL)";="1983";Atari;bzone;YES;-;-
+="a2600";="Battlezone (Prototype 19830502)";="1983";Atari;bzone;YES;-;-
+="a2600";="Battlezone (Prototype 19830512)";="1983";Atari;bzone;YES;-;-
+="a2600";Beamrider;="1984";Activision;-;YES;-;-
+="a2600";="Beamrider (PAL)";="1984";Activision;beamridr;YES;-;-
+="a2600";="Beany Bopper (20th Century Fox)";="1983";="20th Century Fox";-;YES;-;-
+="a2600";="Beany Bopper (CCE)";="1983";CCE;beanbopp;YES;-;-
+="a2600";="Beat'Em and Eat'Em (Dynacom)";="1982";Dynacom;beatem;YES;-;-
+="a2600";="Beat'Em and Eat'Em (Mystique)";="1982";Mystique;-;YES;-;-
+="a2600";="Beat'Em and Eat'Em (PAL) (Mystique)";="1982";Mystique;beatem;YES;-;-
+="a2600";="Berenstain Bears";="1984";Coleco;-;YES;-;-
+="a2600";="Bermuda (PAL)";="19??";-;bermuda;YES;-;-
+="a2600";="Bermuda (Rainbow Vision)";="1983";="Rainbow Vision";-;YES;-;-
+="a2600";="Bermuda (Starsoft)";="1983";Starsoft;bermuda;YES;-;-
+="a2600";="Bermuda Triangle";="1982";="Data Age";-;YES;-;-
+="a2600";="Bermuda Triangle (PAL)";="1983";Gameworld;bermtria;YES;-;-
+="a2600";Berzerk;="1982";Atari;-;YES;-;-
+="a2600";="Berzerk (CCE)";="1982";CCE;berzerk;YES;-;-
+="a2600";="Berzerk (PAL)";="1982";Atari;berzerk;YES;-;-
+="a2600";="Berzerk (PAL) (Unknown, Alt)";="19??";-;berzerk;YES;-;-
+="a2600";="Berzerk (PAL) (Unknown)";="19??";-;berzerk;YES;-;-
+="a2600";="Bi! Bi!";="1983";Starsoft;-;YES;-;-
+="a2600";="Big Bird's Egg Catch";="1983";Atari;-;YES;-;-
+="a2600";="Big Bird's Egg Catch (PAL)";="1983";Atari;bigbird;YES;-;-
+="a2600";="Big Bird's Egg Catch (Prototype 19821208)";="1982";Atari;bigbird;YES;-;-
+="a2600";="Big Bird's Egg Catch (Prototype 19830502)";="1983";Atari;bigbird;YES;-;-
+="a2600";="Big Bird's Egg Catch (Prototype 19830517)";="1983";Atari;bigbird;YES;-;-
+="a2600";="Billard (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Bingo (PAL)";="1983";CCE;-;YES;-;-
+="a2600";="Bionic Breakthrough (Prototype 19840622)";="1984";Atari;-;YES;-;-
+="a2600";="Bionic Breakthrough (Prototype 1984xxxx)";="1984";Atari;bionicbr;YES;-;-
+="a2600";="Blackjack - Black Jack";="1977";Atari;-;YES;-;-
+="a2600";="Blackjack (PAL)";="1977";Atari;blckjack;YES;-;-
+="a2600";="Blackjack (PAL) (Unknown)";="19??";-;blckjack;YES;-;-
+="a2600";="Bloody Human Freeway (Prototype)";="19??";Activision;-;YES;-;-
+="a2600";Blueprint;="1983";="CBS Electronics";-;YES;-;-
+="a2600";="Blueprint (PAL)";="1983";="CBS Electronics";blueprnt;YES;-;-
+="a2600";="Blueprint (Prototype)";="1983";="CBS Electronics";blueprnt;YES;-;-
+="a2600";="BMX Air Master (Atari)";="1990";Atari;-;YES;-;-
+="a2600";="BMX Air Master (PAL) (Atari)";="1990";Atari;bmx;YES;-;-
+="a2600";="BMX Air Master (PAL) (TNT Games)";="1989";="TNT Games";bmx;YES;-;-
+="a2600";="Bob Is Going Home (JVP)";="19??";JVP;bobhome;YES;NTSC;-
+="a2600";="Bobby Is Going Home - Bobby Vai Para Casa (CCE)";="1983";CCE;bobhome;YES;NTSC;-
+="a2600";="Bobby Is Going Home (2600 Screen Search Console)";="19??";="Jone Yuan Telephonic Enterprise Co";bobhome;YES;NTSC;-
+="a2600";="Bobby Is Going Home (Rentacom)";="19??";Rentacom;bobhome;YES;NTSC;-
+="a2600";="Bogey Blaster";="1989";Telegames;-;YES;-;-
+="a2600";="Boggle (Prototype 19780807)";="1978";Atari;-;YES;-;-
+="a2600";Boing!;="1983";="First Star Software";-;YES;-;-
+="a2600";="Boing! (PAL)";="1983";="First Star Software";boing;YES;-;-
+="a2600";="Boom Bang (CCE)";="1983";CCE;crackpot;YES;NTSC;-
+="a2600";="Boom Bang (Unknown)";="19??";-;crackpot;YES;NTSC;-
+="a2600";="Boulder Dash (Demo v1)";="2011";<homebrew>;bdash;YES;-;-
+="a2600";="Boulder Dash (Demo v2)";="2014";<homebrew>;-;YES;-;-
+="a2600";Bowling;="1979";Atari;-;YES;-;-
+="a2600";="Bowling (Milmar)";="19??";Milmar;bowling;YES;-;-
+="a2600";="Bowling (PAL)";="1979";Atari;bowling;YES;-;-
+="a2600";="Boxen (PAL)";="19??";Ariola;-;YES;-;-
+="a2600";="Boxing - Box-Champion (PAL)";="1980";Activision;-;YES;-;-
+="a2600";="Boxing - La Boxe";="1980";Activision;-;YES;-;-
+="a2600";="Boxing (CCE)";="1983";CCE;boxing;YES;-;-
+="a2600";="Boxing (Milmar)";="19??";Milmar;boxing;YES;-;-
+="a2600";="Boxing (PAL)";="19??";-;boxing;YES;-;-
+="a2600";="Brain Games";="1978";Atari;-;YES;-;-
+="a2600";="Brain Games (PAL)";="1978";Atari;braingam;YES;-;-
+="a2600";="Breakout - Breakaway IV";="1978";Atari;-;YES;-;-
+="a2600";="Breakout (PAL)";="1978";Atari;breakout;YES;-;-
+="a2600";Bridge;="1980";Activision;-;YES;-;-
+="a2600";="Bridge (Fixed?)";="1980";Activision;bridge;YES;-;-
+="a2600";="Buck Rogers - Planet of Zoom";="1983";Sega;-;YES;-;-
+="a2600";="Buck Rogers - Planet of Zoom (PAL)";="1983";Sega;buckrog;YES;-;-
+="a2600";Bugs;="1982";="Data Age";-;YES;-;-
+="a2600";="Bugs (PAL)";="1983";Gameworld;bugs;YES;-;-
+="a2600";="Bugs Bunny (Prototype 19830804)";="1983";Atari;-;YES;-;-
+="a2600";="Bugs Bunny (Prototype 1983xxxx)";="1983";Atari;="bbunnyp1";YES;-;-
+="a2600";="Bump 'n' Jump";="1983";="M Network";-;YES;-;-
+="a2600";="Bump 'n' Jump (PAL)";="1989";Telegames;bnj;YES;-;-
+="a2600";="Bumper Bash";="1983";Spectravideo;-;YES;-;-
+="a2600";="Bumper Bash (PAL)";="1983";Spectravideo;bumpbash;YES;-;-
+="a2600";BurgerTime;="1983";="M Network";-;YES;-;-
+="a2600";="Burning Desire";="1982";PlayAround;-;YES;-;-
+="a2600";="Burning Desire (PAL)";="1982";="American Multiple Industries";burndesi;YES;-;-
+="a2600";="Busy Police";="19??";Zellers;-;YES;-;-
+="a2600";="Cabbage Patch Kids - Adventures in the Park (Prototype 19840524)";="1984";Coleco;cabbagep;YES;-;-
+="a2600";="Cabbage Patch Kids - Adventures in the Park (Prototype 19840614)";="1984";Coleco;cabbagep;YES;-;-
+="a2600";="Cabbage Patch Kids - Adventures in the Park (Prototype 19840629 & 19840703)";="1984";Coleco;cabbagep;YES;-;-
+="a2600";="Cabbage Patch Kids - Adventures in the Park (Prototype 198406xx)";="1984";Coleco;cabbagep;YES;-;-
+="a2600";="Cabbage Patch Kids - Adventures in the Park (Prototype 19840727)";="19??";-;cabbagep;YES;-;-
+="a2600";="Cabbage Patch Kids - Adventures in the Park (Prototype 19840821)";="1984";Coleco;cabbagep;YES;-;-
+="a2600";="Cabbage Patch Kids - Adventures in the Park (Prototype 19840904)";="1984";Coleco;cabbagep;YES;-;-
+="a2600";="Cabbage Patch Kids - Adventures in the Park (Prototype 19840907)";="1984";Coleco;cabbagep;YES;-;-
+="a2600";="Cabbage Patch Kids - Adventures in the Park (Prototype 19840913, Alt)";="1984";Coleco;cabbagep;YES;-;-
+="a2600";="Cabbage Patch Kids - Adventures in the Park (Prototype 19840913)";="1984";Coleco;-;YES;-;-
+="a2600";Cakewalk;="1983";CommaVid;-;YES;-;-
+="a2600";="Cakewalk - Alarm in der Backstube (PAL)";="1983";CommaVid;cakewalk;YES;-;-
+="a2600";="California Games";="1988";Epyx;-;YES;-;-
+="a2600";="California Games (PAL)";="1988";Epyx;calgames;YES;-;-
+="a2600";="Canyon Bomber";="1979";Atari;-;YES;-;-
+="a2600";="Care Bears (Prototype)";="1983";="Parker Brothers";-;YES;-;-
+="a2600";Carnival;="1982";Coleco;-;YES;-;-
+="a2600";="Carnival (PAL)";="1982";="CBS Electronics";carnival;YES;-;-
+="a2600";="Casino - Poker Plus";="1979";Atari;-;YES;-;-
+="a2600";="Casino (PAL)";="1979";Atari;casino;YES;-;-
+="a2600";="Cat Trax (Prototype, Alt)";="1983";="UA Limited";cattrax;YES;-;-
+="a2600";="Cat Trax (Prototype)";="1983";="UA Limited";-;YES;-;-
+="a2600";="Catch Time (2600 Screen Search Console)";="19??";="Jone Yuan Telephonic Enterprise Co";plaqueat;YES;NTSC;-
+="a2600";="Cathouse Blues";="1982";PlayAround;-;YES;-;-
+="a2600";Centipede;="1982";Atari;-;YES;-;-
+="a2600";="Centipede (PAL)";="1982";Atari;centiped;YES;-;-
+="a2600";="Centipede (PAL) (Prototype)";="1982";Atari;centiped;YES;-;-
+="a2600";="Challenge (PAL)";="19??";HES;challeng;YES;-;-
+="a2600";="Challenge (Unknown)";="19??";-;-;YES;-;-
+="a2600";="Challenge (Zellers)";="19??";Zellers;challeng;YES;-;-
+="a2600";="Championship Soccer - Soccer";="1980";Atari;-;YES;-;-
+="a2600";="Championship Soccer (PAL)";="1980";Atari;chmpsocr;YES;-;-
+="a2600";="Chase the Chuckwagon";="1983";Spectravideo;-;YES;-;-
+="a2600";Checkers;="1980";Activision;-;YES;NTSC;-
+="a2600";="Checkers (2600 Screen Search Console)";="19??";="Jone Yuan Telephonic Enterprise CO";checkers;YES;NTSC;-
+="a2600";="Cheese (Prototype 19820521)";="1982";Imagic;-;YES;-;-
+="a2600";="China Syndrome";="1982";Spectravideo;-;YES;NTSC;-
+="a2600";="Chopper Command";="1982";Activision;-;YES;NTSC;-
+="a2600";="Chopper Command (CCE, Alt)";="1983";CCE;chopcomm;YES;NTSC;-
+="a2600";="Chopper Command (CCE)";="1983";CCE;chopcomm;YES;NTSC;-
+="a2600";="Chopper Command (Digitel)";="1983";Digitel;chopcomm;YES;NTSC;-
+="a2600";="Chuck Norris Superkicks";="1983";Xonox;-;YES;-;-
+="a2600";Circus;="19??";Zellers;-;YES;-;-
+="a2600";="Circus Atari - Circus";="1980";Atari;-;YES;-;-
+="a2600";="Circus Atari (PAL)";="1980";Atari;circusa;YES;-;-
+="a2600";="Circus Atari (PAL) (Unknown)";="19??";-;circusa;YES;-;-
+="a2600";="Circus Atari (Unknown)";="19??";-;circusa;YES;-;-
+="a2600";="Coco Nuts";="1982";Telesys;-;YES;-;-
+="a2600";="Codebreaker - Code Breaker";="1978";Atari;-;YES;-;-
+="a2600";="Codebreaker (PAL)";="1978";Atari;codebrek;YES;-;-
+="a2600";="Color Bar Generator";="1984";="Video Soft";-;YES;-;-
+="a2600";="Colors (PAL) (Prototype)";="1980";Atari;-;YES;-;-
+="a2600";="Comando Suicida";="19??";Dismac;-;YES;-;-
+="a2600";="Combat - Tank-Plus";="1977";Atari;-;YES;-;-
+="a2600";="Combat (PAL)";="1977";Atari;combat;YES;-;-
+="a2600";="Combat Two (Prototype)";="1982";Atari;-;YES;-;-
+="a2600";Commando;="1988";Activision;-;YES;-;-
+="a2600";="Commando (Alt Logo)";="1988";Activision;commando;YES;-;-
+="a2600";="Commando (PAL)";="1988";Activision;commando;YES;-;-
+="a2600";="Commando Raid";="1982";="U.S. Games Corporation";-;YES;-;-
+="a2600";="Commando Raid (PAL)";="19??";-;commraid;YES;-;-
+="a2600";CompuMate;="1983";Spectravideo;-;YES;-;-
+="a2600";="CompuMate (PAL)";="1983";Spectravideo;compumat;YES;-;-
+="a2600";="Computer Chess (Prototype 19780707)";="1978";Atari;-;YES;-;-
+="a2600";="Condor Attack";="1982";Ultravision;-;YES;-;-
+="a2600";="Condor Attack (PAL)";="1982";Ultravision;condorat;YES;-;-
+="a2600";="Condor Attack (PAL) (Goliath)";="1983";Goliath;condorat;YES;-;-
+="a2600";="Condor Attack (PAL) (Unknown)";="19??";-;condorat;YES;-;-
+="a2600";="Confrontation (Prototype)";="1983";="TY Associates";-;YES;-;-
+="a2600";="Congo Bongo";="1983";Sega;-;YES;-;-
+="a2600";="Congo Bongo (Alt)";="1983";Sega;congo;YES;-;-
+="a2600";="Congo Bongo (PAL)";="1983";Sega;congo;YES;-;-
+="a2600";="Cookie Monster Munch";="1983";Atari;-;YES;-;-
+="a2600";="Cookie Monster Munch (PAL)";="1983";Atari;cookiemo;YES;-;-
+="a2600";="Cookie Monster Munch (PAL) (Alt)";="1983";Atari;cookiemo;YES;-;-
+="a2600";="Corrida da Matematica";="19??";CCE;-;YES;-;-
+="a2600";="Cosmic Ark (CCE, Alt)";="1983";CCE;cosmark;YES;NTSC;-
+="a2600";="Cosmic Ark (CCE)";="1983";CCE;cosmark;YES;NTSC;-
+="a2600";="Cosmic Ark (Imagic, Selectable Starfield)";="1982";Imagic;cosmark;YES;NTSC;-
+="a2600";="Cosmic Ark (Imagic)";="1982";Imagic;-;YES;NTSC;-
+="a2600";="Cosmic Commuter";="1984";Activision;-;YES;-;-
+="a2600";="Cosmic Commuter (CCE)";="19??";-;cosmicco;YES;-;-
+="a2600";="Cosmic Corridor";="1983";Vidco;-;YES;-;-
+="a2600";="Cosmic Creeps";="1982";Telesys;-;YES;-;-
+="a2600";="Cosmic Creeps (PAL)";="1982";Telesys;cosmcrep;YES;-;-
+="a2600";="Cosmic Creeps (PAL) (Unknown)";="19??";-;cosmcrep;YES;-;-
+="a2600";="Cosmic Swarm";="1982";CommaVid;-;YES;NTSC;-
+="a2600";="Cosmic Swarm (2600 screen search console)";="19??";="Jone Yuan Telephonic Enterprise Co";cosmswrm;YES;NTSC;-
+="a2600";="Cosmic War (PAL)";="1983";-;-;YES;-;-
+="a2600";="Crack'ed (Prototype 19881128)";="1988";Atari;-;YES;-;-
+="a2600";="Crackpots (2600 Screen Search Console)";="19??";="Jone Yuan Telephonic Enterprise Co";crackpot;YES;NTSC;-
+="a2600";="Crackpots (CCE, Alt)";="1983";CCE;crackpot;YES;NTSC;-
+="a2600";="Crackpots (CCE)";="1983";CCE;crackpot;YES;NTSC;-
+="a2600";="Crackpots (Digivision)";="19??";Digivision;crackpot;YES;NTSC;-
+="a2600";="Crash Dive";="1983";="20th Century Fox Video Games";-;YES;-;-
+="a2600";="Crash Dive (PAL)";="1983";="20th Century Fox Video Games";crashdiv;YES;-;-
+="a2600";="Crazy Climber";="1982";Atari;-;YES;-;-
+="a2600";="Criminal Persuit (PAL)";="19??";Suntek;-;YES;-;-
+="a2600";="Cross Force";="1982";Spectravideo;-;YES;-;-
+="a2600";="Cross Force - Kreuzfeuer (PAL)";="1982";Spectravideo;xforce;YES;-;-
+="a2600";="Cross Force (PAL) (Unknown)";="19??";-;xforce;YES;-;-
+="a2600";Crossbow;="1987";Atari;-;YES;-;-
+="a2600";="Crossbow (PAL)";="1987";Atari;crossbow;YES;-;-
+="a2600";="Cruise Missile";="1987";Froggo;-;YES;-;-
+="a2600";="Crypts of Chaos";="1982";="20th Century Fox Video Games";-;YES;-;-
+="a2600";="Crystal Castles";="1984";Atari;-;YES;-;-
+="a2600";="Crystal Castles (PAL)";="1984";Atari;ccastles;YES;-;-
+="a2600";="Crystal Castles (Prototype 19840104)";="1984";Atari;ccastles;YES;-;-
+="a2600";="Cubicolor (Prototype)";="1982";Imagic;-;YES;-;-
+="a2600";="Cubo Magico";="19??";CCE;-;YES;-;-
+="a2600";="Curtiss (PAL)";="19??";Suntek;-;YES;-;-
+="a2600";="Custer's Revenge";="1982";Mystique;-;YES;-;-
+="a2600";="Custer's Revenge (PAL)";="1982";Mystique;custer;YES;-;-
+="a2600";="Dancing Plate - Dancing Plates - Tanzende Teller (PAL)";="1982";="Bit Corporation";-;YES;-;-
+="a2600";="Dancing Plate (PAL) (Puzzy)";="1982";Puzzy;dancingp;YES;-;-
+="a2600";="Dancing Plate (PAL) (Unknown)";="19??";-;dancingp;YES;-;-
+="a2600";="Dark Cavern";="1982";="M Network";-;YES;-;-
+="a2600";="Dark Chambers";="1988";Atari;-;YES;-;-
+="a2600";="Dark Chambers (PAL)";="1988";Atari;darkcham;YES;-;-
+="a2600";="Dark Chambers (PAL) (Prototype)";="1988";Atari;darkcham;YES;-;-
+="a2600";="Deadly Discs (PAL)";="1989";Telegames;-;YES;-;-
+="a2600";="Deadly Duck";="1982";="20th Century Fox Video Games";-;YES;-;-
+="a2600";="Death Trap";="1983";="Avalon Hill";-;YES;-;-
+="a2600";Decathlon;="19??";HES;decathln;YES;-;-
+="a2600";Defender;="1982";Atari;-;YES;-;-
+="a2600";="Defender (CCE)";="19??";CCE;defender;YES;-;-
+="a2600";="Defender (Digivision)";="19??";Digivision;defender;YES;-;-
+="a2600";="Defender (PAL)";="1982";Atari;defender;YES;-;-
+="a2600";="Defender (PAL) (Unknown)";="19??";-;defender;YES;-;-
+="a2600";="Defender (Prototype 19811030)";="1981";Atari;defender;YES;-;-
+="a2600";="Defender II";="1988";Atari;-;YES;-;-
+="a2600";="Defender II (PAL)";="1988";Atari;="defendr2";YES;-;-
+="a2600";="Demolition Herby";="1983";Telesys;-;YES;-;-
+="a2600";="Demolition Herby (PAL)";="1983";Telesys;demohrby;YES;-;-
+="a2600";="Demolition Herby (PAL) (Unknown)";="19??";-;demohrby;YES;-;-
+="a2600";="Demon Attack";="1982";Imagic;-;YES;-;-
+="a2600";="Demon Attack (CCE)";="1983";CCE;demonatk;YES;-;-
+="a2600";="Demon Attack (Fixed?)";="1982";Imagic;demonatk;YES;-;-
+="a2600";="Demon Attack (PAL)";="1982";-;demonatk;YES;-;-
+="a2600";="Demon Attack (PAL) (Unknown)";="19??";-;demonatk;YES;-;-
+="a2600";="Demon Attack (Robby)";="19??";Robby;demonatk;YES;-;-
+="a2600";="Demon Attack (Supergame)";="19??";Supergame;demonatk;YES;-;-
+="a2600";="Demons to Diamonds";="1982";Atari;-;YES;-;-
+="a2600";="Demons to Diamonds (CCE)";="19??";CCE;demodiam;YES;-;-
+="a2600";="Demons to Diamonds (PAL)";="1982";Atari;demodiam;YES;-;-
+="a2600";="Depth Charge (Prototype)";="1983";Amiga;-;YES;NTSC;-
+="a2600";="Der Geheimkurier (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Der kleine Baer (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Der moderne Ritter - Mr. T (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Der Vielfrass (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Desert Falcon";="1987";Atari;-;YES;-;-
+="a2600";="Desert Falcon (PAL)";="1987";Atari;dsrtflcn;YES;-;-
+="a2600";="Desert Falcon (PAL) (Prototype 19870527)";="1987";Atari;dsrtflcn;YES;-;-
+="a2600";="Diagnostic Test Cartridge 2.0 (Prototype)";="1980";Atari;-;YES;-;-
+="a2600";="Diagnostic Test Cartridge 2.6";="1982";Atari;-;YES;-;-
+="a2600";="Diagnostic Test Cartridge 2.6P (PAL)";="1982";Atari;diagnos;YES;-;-
+="a2600";="Dice Puzzle";="1983";Panda;-;YES;-;-
+="a2600";="Dice Puzzle (PAL)";="1983";="Tang's Electronic Co.";dicepuzl;YES;-;-
+="a2600";="Die Ente und der Wolf (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Die hungrigen Froesche (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Die Ratte und die Karotten (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Die Unterwasser Bestien - Mariana (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Dig Dug";="1983";Atari;-;YES;-;-
+="a2600";="Dig Dug (PAL)";="1983";Atari;digdug;YES;-;-
+="a2600";Dishaster;="1983";Vidco;-;YES;-;-
+="a2600";="Dodge 'Em - Dodger Cars";="1980";Atari;-;YES;-;-
+="a2600";="Dodge 'Em - Dodger Cars (Fixed?)";="1980";Atari;dodgeem;YES;-;-
+="a2600";="Dodge 'Em (PAL, Earlier)";="1980";Atari;dodgeem;YES;-;-
+="a2600";="Dodge 'Em (PAL, Later)";="1987";Atari;dodgeem;YES;-;-
+="a2600";="Dodge 'Em (PAL) (Unknown)";="19??";-;dodgeem;YES;-;-
+="a2600";Dolphin;="1983";Activision;-;YES;-;-
+="a2600";="Dolphin (CCE)";="19??";CCE;dolphin;YES;-;-
+="a2600";="Donald Duck's Speedboat (PAL) (Prototype 19830418)";="1983";Atari;donaldds;YES;-;-
+="a2600";="Donald Duck's Speedboat (Prototype 19830412)";="1983";Atari;-;YES;-;-
+="a2600";="Donkey Kong";="1987";Atari;-;YES;-;-
+="a2600";="Donkey Kong (PAL)";="1982";="CBS Electronics";dkong;YES;-;-
+="a2600";="Donkey Kong (PAL) (Pet Boat)";="1983";="Pet Boat";dkong;YES;-;-
+="a2600";="Donkey Kong (Star Game)";="19??";="Star Game";dkong;YES;-;-
+="a2600";="Donkey Kong Jr (CCE)";="1983";CCE;dkongjr;YES;-;-
+="a2600";="Donkey Kong Jr. (Tron)";="19??";Tron;dkongjr;YES;-;-
+="a2600";="Donkey Kong Junior";="1987";Atari;-;YES;-;-
+="a2600";="Donkey Kong Junior (PAL)";="1983";="CBS Electronics";dkongjr;YES;-;-
+="a2600";="Double Dragon";="1989";Activision;-;YES;-;-
+="a2600";="Double Dragon (PAL)";="1989";Activision;ddragon;YES;-;-
+="a2600";="Double Dragon (PAL) (CCE)";="19??";CCE;ddragon;YES;-;-
+="a2600";="Double Dunk";="1989";Atari;-;YES;-;-
+="a2600";="Double Dunk (PAL)";="1989";Atari;ddunk;YES;-;-
+="a2600";="Dragon Defender (PAL) (Ariola)";="19??";Ariola;-;YES;-;-
+="a2600";="Dragon Defender (PAL) (Suntek)";="19??";Suntek;dragondf;YES;-;-
+="a2600";Dragonfire;="1982";Imagic;-;YES;-;-
+="a2600";="Dragonfire (PAL)";="1982";Imagic;dragfire;YES;-;-
+="a2600";="Dragonfire (PAL) (Unknown)";="19??";-;dragfire;YES;-;-
+="a2600";Dragster;="1980";Activision;-;YES;-;-
+="a2600";="Dragster - Dragster Rennen (PAL)";="1980";Activision;dragster;YES;-;-
+="a2600";="Dream Flight (PAL)";="1983";Goliath;-;YES;-;-
+="a2600";="Dukes of Hazzard";="1983";Atari;-;YES;-;-
+="a2600";="Dukes of Hazzard (Prototype)";="1980";Atari;hazzard;YES;-;-
+="a2600";="Dumbo's Flying Circus (PAL)";="1983";Atari;dumbosfl;YES;-;-
+="a2600";="Dumbo's Flying Circus (PAL) (Prototype 19830711)";="1983";Atari;dumbosfl;YES;-;-
+="a2600";="Dumbo's Flying Circus (Prototype 19850505)";="1983";Atari;-;YES;-;-
+="a2600";="Dune (Prototype 19840710)";="1984";Atari;-;YES;-;-
+="a2600";="Dungeon (Prototype 19851122)";="1985";Atari;-;YES;-;-
+="a2600";="E.T. - The Extra-Terrestrial";="1982";Atari;-;YES;-;-
+="a2600";="E.T. - The Extra-Terrestrial (CCE)";="19??";CCE;et;YES;-;-
+="a2600";="E.T. - The Extra-Terrestrial (PAL)";="1982";Atari;et;YES;-;-
+="a2600";="Earth Attack";="19??";Zellers;-;YES;-;-
+="a2600";Eggomania;="1982";="U.S. Games Corporation";-;YES;-;-
+="a2600";="Eggomania (PAL)";="1983";="Carrere Video";eggomani;YES;-;-
+="a2600";="Eishockey-Fieber (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Elevator Action (Prototype)";="1983";Atari;-;YES;-;-
+="a2600";="Elf Adventure (Prototype)";="1983";Atari;-;YES;NTSC;-
+="a2600";="Eli's Ladder";="1982";Simage;-;YES;-;-
+="a2600";="Elk Attack (Prototype)";="1987";Atari;-;YES;-;-
+="a2600";="Encounter at L-5";="1982";="Data Age";-;YES;-;-
+="a2600";="Encounter at L-5 (PAL)";="1983";Gameworld;encountr;YES;-;-
+="a2600";Enduro;="1983";Activision;-;YES;-;-
+="a2600";="Enduro - Transamerika-Rennen (PAL)";="1983";Activision;enduro;YES;-;-
+="a2600";="Enduro (CCE)";="1983";CCE;enduro;YES;-;-
+="a2600";="Enduro (Digitel)";="1983";Digitel;enduro;YES;-;-
+="a2600";="Enduro (Digivision)";="19??";Digivision;enduro;YES;-;-
+="a2600";="Enduro (Dynacom)";="1983";Dynacom;enduro;YES;-;-
+="a2600";="Enduro (PAL) (Unknown)";="19??";-;enduro;YES;-;-
+="a2600";="Enduro (Robby)";="19??";Robby;enduro;YES;-;-
+="a2600";="Enduro (Supergame)";="1984";Supergame;enduro;YES;-;-
+="a2600";="Enduro (Tron)";="19??";Tron;enduro;YES;-;-
+="a2600";="Enduro (Unknown)";="19??";-;enduro;YES;-;-
+="a2600";Entombed;="1982";="U.S. Games Corporation";-;YES;-;-
+="a2600";Espial;="1984";Tigervision;-;YES;-;-
+="a2600";="Espial (PAL)";="1984";Tigervision;espial;YES;-;-
+="a2600";Exocet;="1983";Panda;-;YES;-;-
+="a2600";="Exocet (PAL)";="1982";="Tang's Electronic Co.";exocet;YES;-;-
+="a2600";="F-14 Tomcat (PAL)";="1988";="Absolute Entertainment";-;YES;-;-
+="a2600";="Fantastic Voyage";="1982";="20th Century Fox Video Games";-;YES;-;-
+="a2600";="Farmyard Fun";="19??";-;-;YES;-;-
+="a2600";="Farmyard Fun (PAL)";="19??";-;farmyard;YES;-;-
+="a2600";="Fast Eddie";="1982";="20th Century Fox Video Games";-;YES;-;-
+="a2600";="Fast Eddie (CCE)";="1983";CCE;fasteddi;YES;-;-
+="a2600";="Fast Food";="1982";Telesys;-;YES;-;-
+="a2600";="Fast Food (PAL)";="1982";Telesys;fastfood;YES;-;-
+="a2600";="Fast Food (PAL) (Unknown)";="19??";-;fastfood;YES;-;-
+="a2600";="Fast Food (Zirok)";="19??";Zirok;fastfood;YES;-;-
+="a2600";="Fatal Run (PAL)";="1989";Atari;-;YES;-;-
+="a2600";="Fatal Run (Prototype)";="1989";Atari;fatalrun;YES;-;-
+="a2600";Fathom;="1983";Imagic;-;YES;-;-
+="a2600";="Fathom (PAL)";="1983";Imagic;fathom;YES;-;-
+="a2600";="Felix Return (PAL)";="1983";="Hot Shot / Goliath";bobhome;YES;-;-
+="a2600";="Festival (PAL)";="1983";="Bit Corporation";-;YES;-;-
+="a2600";="Feuerwehr im Einsatz (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Final Approach";="1982";Apollo;-;YES;-;-
+="a2600";="Fire Bird (PAL)";="19??";="Video Game Program";-;YES;-;-
+="a2600";="Fire Birds (PAL)";="1983";="ITT Family Games";-;YES;-;-
+="a2600";="Fire Fighter";="1982";Imagic;-;YES;-;-
+="a2600";="Fire Fighter (PAL)";="1982";Imagic;ffighter;YES;-;-
+="a2600";="Fire Fly";="1983";Mythicon;-;YES;-;-
+="a2600";="Firebug (PAL)";="19??";Suntek;-;YES;-;-
+="a2600";="Fisher Price";="1983";CCE;-;YES;-;-
+="a2600";="Fishing Derby";="1980";Activision;-;YES;-;-
+="a2600";="Fishing Derby - Schneller als der Hai (PAL)";="1980";Activision;fishdrby;YES;-;-
+="a2600";="Fishing Derby (CCE)";="19??";CCE;fishdrby;YES;-;-
+="a2600";="Flag Capture - Capture";="1978";Atari;-;YES;-;-
+="a2600";="Flash Gordon (PAL)";="19??";-;-;YES;-;-
+="a2600";="Flippern (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";Football;="1979";Atari;-;YES;-;-
+="a2600";="Football (PAL)";="1989";Telegames;football;YES;-;-
+="a2600";="Forest (PAL)";="1983";="Tang's Electronic Co.";-;YES;-;-
+="a2600";="Fox & Goat (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Frankenstein's Monster";="1983";="Data Age";-;YES;-;-
+="a2600";="Frankenstein's Monster (PAL)";="1983";Gameworld;frankenm;YES;-;-
+="a2600";="Frantic (20140305, NTSC)";="2014";Spiceware;-;YES;NTSC;-
+="a2600";Freeway;="1981";Activision;-;YES;-;-
+="a2600";="Freeway - Das verrueckte Huhn (PAL)";="1981";Activision;freeway;YES;-;-
+="a2600";="Freeway (CCE)";="19??";CCE;freeway;YES;-;-
+="a2600";="Freeway (Milmar)";="19??";Milmar;freeway;YES;-;-
+="a2600";="Freeway (Zellers)";="19??";Zellers;freeway;YES;-;-
+="a2600";Frisco;="19??";-;-;YES;-;-
+="a2600";="Frog Demo (PAL)";="1983";CommaVid;-;YES;-;-
+="a2600";="Frog Pond (Prototype 19820827)";="1982";Atari;-;YES;-;-
+="a2600";="Frog Pond (Prototype 1982xxxx)";="1982";Atari;frogpond;YES;-;-
+="a2600";Frogger;="1982";="Parker Brothers";-;YES;-;-
+="a2600";="Frogger (PAL)";="1982";="Parker Brothers";frogger;YES;-;-
+="a2600";="Frogger II - Threeedeep!";="1984";="Parker Brothers";-;YES;-;-
+="a2600";="Frogger II - Threeedeep! (PAL)";="1984";="Parker Brothers";="frogger2";YES;-;-
+="a2600";="Frogs and Flies - Frogs 'n' Flies";="1982";="M Network";-;YES;-;-
+="a2600";="Frogs and Flies (PAL)";="1989";Telegames;frogsfli;YES;-;-
+="a2600";="Front Line";="1984";Coleco;-;YES;-;-
+="a2600";Frostbite;="1983";Activision;-;YES;-;-
+="a2600";="Frostbite - Expedition ins Eis (PAL)";="1983";Activision;frostbit;YES;-;-
+="a2600";="Frostbite (CCE)";="19??";CCE;frostbit;YES;-;-
+="a2600";="Frostbite (Digitel)";="1983";Digitel;frostbit;YES;-;-
+="a2600";="Frostbite (Digivision)";="19??";Digivision;frostbit;YES;-;-
+="a2600";="Frostbite (PAL) (Unknown)";="19??";-;frostbit;YES;-;-
+="a2600";="Frostbite (Video Mania)";="1983";="Video Mania";frostbit;YES;-;-
+="a2600";="Fuchs & Schweinchen Schlau (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Fun with Numbers";="1980";Atari;-;YES;-;-
+="a2600";="Fun with Numbers (PAL)";="1980";Atari;funnumb;YES;-;-
+="a2600";="Funky Fish (Prototype)";="1983";="UA Limited";-;YES;-;-
+="a2600";="Fussball (PAL)";="19??";Ariola;-;YES;-;-
+="a2600";="G.I. Joe - Cobra Strike";="1983";="Parker Brothers";-;YES;-;-
+="a2600";="Galactic (PAL) (Goliath)";="1983";Goliath;-;YES;-;-
+="a2600";="Galactic (PAL) (Suntek)";="19??";Suntek;nexar;YES;-;-
+="a2600";Galaxian;="1983";Atari;-;YES;-;-
+="a2600";="Galaxian (CCE)";="19??";CCE;galaxian;YES;-;-
+="a2600";="Galaxian (Digivision)";="19??";Digivision;galaxian;YES;-;-
+="a2600";="Galaxian (PAL)";="1983";Atari;galaxian;YES;-;-
+="a2600";="Galaxian (Prototype 19830105)";="1983";Atari;galaxian;YES;-;-
+="a2600";="Galaxian (Prototype 19830204)";="1983";Atari;galaxian;YES;-;-
+="a2600";="GameLine Master Module ROM";="1983";="Control Video Corporation";-;YES;-;-
+="a2600";Gamma-Attack;="1983";Gammation;-;YES;-;-
+="a2600";="Gangster (PAL)";="19??";Ariola;-;YES;-;-
+="a2600";="Gangster Alley";="1982";Spectravideo;-;YES;-;-
+="a2600";="Gangster Alley - Gangster Ruine (PAL)";="1982";Spectravideo;gangstal;YES;-;-
+="a2600";="Garfield (Prototype 19840621)";="1984";Atari;-;YES;-;-
+="a2600";="Gas Hog";="1983";Spectravideo;-;YES;-;-
+="a2600";="Gas Hog - Piraten Schiff";="1983";Spectravideo;gashog;YES;-;-
+="a2600";="Gas Hog (Fixed?)";="1983";Spectravideo;gashog;YES;-;-
+="a2600";Gauntlet;="1983";="TY Associates";-;YES;-;-
+="a2600";="Gefecht im All (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="General Re-Treat (PAL)";="1982";PlayAround;-;YES;-;-
+="a2600";="Ghost Manor";="1983";Xonox;-;YES;-;-
+="a2600";="Ghost Manor (PAL)";="1983";Xonox;ghostman;YES;-;-
+="a2600";Ghostbusters;="1985";Activision;-;YES;-;-
+="a2600";="Ghostbusters (PAL)";="1985";Activision;ghostbst;YES;-;-
+="a2600";="Ghostbusters II (PAL)";="1992";Salu;-;YES;-;-
+="a2600";="Ghostbusters II (PAL) (Alt Tune)";="1992";Salu;="ghostbs2";YES;-;-
+="a2600";Gigolo;="1982";PlayAround;-;YES;-;-
+="a2600";="Glacier Patrol";="1989";Telegames;-;YES;-;-
+="a2600";="Glib - Video Word Game";="1983";="Selchow & Righter";-;YES;-;-
+="a2600";Golf;="1980";Atari;-;YES;-;-
+="a2600";="Golf (PAL)";="1980";Atari;golf;YES;-;-
+="a2600";Gopher;="1982";="U.S. Games Corporation";-;YES;-;-
+="a2600";="Gopher (PAL)";="1983";="Carrere Video";gopher;YES;-;-
+="a2600";="Gopher (PAL) (Unknown)";="19??";-;gopher;YES;-;-
+="a2600";Gorf;="1982";="CBS Electronics";-;YES;-;-
+="a2600";="Gorf (PAL)";="1982";="CBS Electronics";gorf;YES;-;-
+="a2600";="Grand Prix";="1982";Activision;-;YES;NTSC;-
+="a2600";="Grand Prix (CCE, Alt)";="1983";CCE;grandprx;YES;-;-
+="a2600";="Grand Prix (CCE)";="1983";CCE;grandprx;YES;-;-
+="a2600";="Grand Prix (PAL)";="1982";Activision;grandprx;YES;-;-
+="a2600";="Grand Prix (PAL) (Unknown)";="19??";-;grandprx;YES;-;-
+="a2600";="Grand Prix (Robby)";="19??";Robby;grandprx;YES;-;-
+="a2600";="Grand Prize";="19??";Funvision;-;YES;-;-
+="a2600";Gravitar;="1983";Atari;-;YES;-;-
+="a2600";="Gravitar (CCE)";="19??";CCE;gravitar;YES;-;-
+="a2600";="Gravitar (Prototype 19830412)";="1983";Atari;gravitar;YES;-;-
+="a2600";="Great Escape";="1983";-;-;YES;-;-
+="a2600";Gremlins;="1984";Atari;-;YES;-;-
+="a2600";="Gremlins (Prototype 19840312)";="1984";Atari;gremlins;YES;-;-
+="a2600";="Ground Zero (PAL)";="1983";Goliath;-;YES;-;-
+="a2600";="Grover's Music Maker (Prototype 19821229)";="1982";Atari;grovermm;YES;-;-
+="a2600";="Grover's Music Maker (Prototype 19830118)";="1983";Atari;-;YES;-;-
+="a2600";Guardian;="1982";Apollo;-;YES;-;-
+="a2600";="Guardian (Prototype)";="1982";Apollo;guardian;YES;-;-
+="a2600";Gyruss;="1984";="Parker Brothers";-;YES;-;-
+="a2600";="Gyruss (PAL)";="1984";="Parker Brothers";gyruss;YES;-;-
+="a2600";H.E.R.O.;="1984";Activision;-;YES;-;-
+="a2600";="H.E.R.O. - Helicopter-Held (PAL)";="1984";Activision;hero;YES;-;-
+="a2600";="H.E.R.O. (CCE)";="19??";CCE;hero;YES;-;-
+="a2600";="H.E.R.O. (Tron)";="19??";Tron;hero;YES;-;-
+="a2600";Halloween;="1983";="Wizard Video Games";-;YES;-;-
+="a2600";="Halo 2600";="2010";<homebrew>;-;YES;-;-
+="a2600";="Hangman - Spelling";="1978";Atari;-;YES;-;-
+="a2600";="Hangman (PAL)";="1978";Atari;hangman;YES;-;-
+="a2600";="Harbor Escape";="1983";Panda;-;YES;-;-
+="a2600";Harem;="1982";Multivision;-;YES;-;-
+="a2600";="Harmony Bios Updater";="2014";Harmony;-;YES;NTSC;-
+="a2600";="Haunted House (NTSC)";="1981";Atari;-;YES;-;-
+="a2600";="Haunted House (PAL)";="1982";Atari;haunted;YES;-;-
+="a2600";="Haunted House (Prototype 09-28-81)";="1982";Atari;haunted;YES;-;-
+="a2600";="Hey! Stop! (PAL)";="19??";Suntek;-;YES;-;-
+="a2600";="Hili Ball (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Hole Hunter";="19??";Ariola;-;YES;-;-
+="a2600";="Holey Moley (Prototype 19840229)";="1984";Atari;-;YES;-;-
+="a2600";="Home Run - Baseball";="1978";Atari;-;YES;-;-
+="a2600";="Home Run (4k)";="1978";Atari;homerun;YES;-;-
+="a2600";="Home Run (PAL)";="19??";-;homerun;YES;-;-
+="a2600";="Hot Action Pak (PAL)";="1990";HES;-;YES;-;-
+="a2600";="Hot Wave (PAL)";="1983";-;-;YES;-;-
+="a2600";="Human Cannonball - Cannon Man";="1979";Atari;-;YES;-;-
+="a2600";="Human Cannonball (PAL)";="1979";Atari;humancan;YES;-;-
+="a2600";="Hunt & Score - Memory Match";="1978";Atari;-;YES;-;-
+="a2600";="Hunt & Score (PAL)";="1978";Atari;huntscor;YES;-;-
+="a2600";="I Want My Mommy";="1983";ZiMAG;-;YES;-;-
+="a2600";="I.Q. Memory Teaser (PAL)";="19??";Suntek;-;YES;-;-
+="a2600";="Ice Hockey - Eishockey (PAL)";="1981";Activision;icehock;YES;-;-
+="a2600";="Ice Hockey - Le Hockey Sur Glace";="1981";Activision;-;YES;-;-
+="a2600";="Ice Hockey (CCE)";="19??";CCE;icehock;YES;-;-
+="a2600";="Ice Hockey (PAL) (Bit Corporation)";="1983";="Bit Corporation";icehock;YES;-;-
+="a2600";="Ikari Warriors";="1989";Atari;-;YES;-;-
+="a2600";="Ikari Warriors (PAL)";="1989";Atari;ikari;YES;-;-
+="a2600";="Imagic Selector ROM";="1982";Imagic;-;YES;-;-
+="a2600";="Immies & Aggies";="1983";CCE;-;YES;-;-
+="a2600";="Immies & Aggies - Immies and Aggies (Prototype)";="1983";ZiMAG;immiesag;YES;-;-
+="a2600";="Inca Gold";="19??";Zellers;-;YES;-;-
+="a2600";="Indy 500 - Race";="1977";Atari;-;YES;-;-
+="a2600";="Indy 500 (PAL)";="1977";Atari;="indy500";YES;-;-
+="a2600";="Infernal Tower (PAL)";="1983";-;-;YES;-;-
+="a2600";Infiltrate;="1981";Apollo;-;YES;-;-
+="a2600";="Infiltrate - Nid d'espions (PAL)";="1981";Apollo;infiltra;YES;-;-
+="a2600";="International Soccer";="1982";="M Network";-;YES;-;-
+="a2600";="International Soccer (PAL)";="1989";Telegames;intsocr;YES;-;-
+="a2600";="International Soccer (PAL) (Unknown)";="19??";-;intsocr;YES;-;-
+="a2600";="IQ 180";="19??";-;-;YES;-;-
+="a2600";="Ixion (Prototype)";="1984";Sega;-;YES;-;-
+="a2600";="James Bond 007";="1983";="Parker Brothers";-;YES;-;-
+="a2600";Jawbreaker;="1982";Tigervision;-;YES;-;-
+="a2600";="Jawbreaker (PAL)";="1982";-;jawbreak;YES;-;-
+="a2600";="Jawbreaker (PAL) (Unknown, Alt)";="19??";-;jawbreak;YES;-;-
+="a2600";="Jawbreaker (PAL) (Unknown)";="19??";-;jawbreak;YES;-;-
+="a2600";="Journey Escape";="1982";="Data Age";-;YES;-;-
+="a2600";="Journey Escape - Rock 'n' Roll Escape (PAL)";="1983";Gameworld;journey;YES;-;-
+="a2600";Joust;="1983";Atari;-;YES;-;-
+="a2600";="Joust (PAL)";="1983";-;joust;YES;-;-
+="a2600";="Joust (Prototype 19830809)";="1983";Atari;joust;YES;-;-
+="a2600";="Jr. Pac-Man";="1984";Atari;-;YES;-;-
+="a2600";="Jr. Pac-Man (PAL)";="1984";Atari;jrpacman;YES;-;-
+="a2600";="Jumping Jack (PAL)";="1983";Dynamics;bobhome;YES;-;-
+="a2600";="Jungle Fever";="1982";PlayAround;-;YES;-;-
+="a2600";="Jungle Hunt";="1983";Atari;-;YES;-;-
+="a2600";="Jungle Hunt (CCE, Alt)";="1983";CCE;jungleh;YES;-;-
+="a2600";="Jungle Hunt (CCE)";="1983";CCE;jungleh;YES;-;-
+="a2600";="Jungle Hunt (PAL)";="1983";-;jungleh;YES;-;-
+="a2600";="Jungle Hunt (Prototype 19830203)";="1983";Atari;jungleh;YES;-;-
+="a2600";="Jungle Hunt (Prototype 19830225)";="1983";Atari;jungleh;YES;-;-
+="a2600";="Kabobber (Prototype 19830725)";="19??";Activision;-;YES;-;-
+="a2600";Kaboom!;="1981";Activision;-;YES;-;-
+="a2600";="Kaboom! - Schneller als der Knall (PAL)";="1981";Activision;kaboom;YES;-;-
+="a2600";="Kaboom! (CCE)";="19??";CCE;kaboom;YES;-;-
+="a2600";="Kamikaze Saucers (Prototype)";="1983";Syncro;-;YES;-;-
+="a2600";Kangaroo;="1983";Atari;-;YES;-;-
+="a2600";="Kangaroo (PAL)";="1983";Atari;kangaroo;YES;-;-
+="a2600";Kanguru;="1983";Zirok;kangaroo;YES;-;-
+="a2600";Karate;="1982";Ultravision;-;YES;-;-
+="a2600";="Karate (PAL)";="1982";Funvision;karate;YES;-;-
+="a2600";="Karate (PAL) (Unknown)";="19??";-;karate;YES;-;-
+="a2600";="Katastrophen-Einsatz (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Kaystone Kapers (Digitel)";="1983";Digitel;keykaper;YES;-;-
+="a2600";="Keystone (Tiger Vision)";="19??";="Tiger Vision";keykaper;YES;-;-
+="a2600";="Keystone Kapers";="1983";Activision;-;YES;-;-
+="a2600";="Keystone Kapers - Raueber und Gendarm (PAL)";="1983";Activision;keykaper;YES;-;-
+="a2600";="Keystone Kapers (Digivision)";="19??";Digivision;keykaper;YES;-;-
+="a2600";="Keystone Kapers (PAL) (Unknown)";="19??";-;keykaper;YES;-;-
+="a2600";="Keystone Kapers (Robby)";="19??";Robby;keykaper;YES;-;-
+="a2600";="Keystone Kapers (Shock Vision)";="19??";="Shock Vision";keykaper;YES;-;-
+="a2600";="Keystone Kapers (Unknown)";="19??";-;keykaper;YES;-;-
+="a2600";="Keystone Kappers (CCE, Alt)";="1983";CCE;keykaper;YES;-;-
+="a2600";="Keystone Kappers (CCE)";="1983";CCE;keykaper;YES;-;-
+="a2600";="Keystone Keypers (Zirok)";="1983";Zirok;keykaper;YES;-;-
+="a2600";="King Arthur (PAL)";="1983";-;-;YES;-;-
+="a2600";="King Kong";="1982";Tigervision;-;YES;-;-
+="a2600";="King Kong (PAL)";="1982";Tigervision;kingkong;YES;-;-
+="a2600";="King Kong (PAL) (Alt)";="1982";Tigervision;kingkong;YES;-;-
+="a2600";="Klax (PAL)";="1990";Atari;-;YES;-;-
+="a2600";="Klax (Prototype 19900614)";="1990";Atari;klax;YES;-;-
+="a2600";="Klax (Prototype 19900818)";="1990";Atari;klax;YES;-;-
+="a2600";="Knight on the Town";="1982";PlayAround;-;YES;-;-
+="a2600";="Knight on the Town (PAL)";="1982";PlayAround;knightwn;YES;-;-
+="a2600";="Kool-Aid Man";="1983";="M Network";-;YES;-;-
+="a2600";Krull;="1983";Atari;-;YES;-;-
+="a2600";="Krull (CCE)";="19??";CCE;krull;YES;-;-
+="a2600";="Krull (Prototype 19830527)";="1983";Atari;krull;YES;-;-
+="a2600";="Kung Fu (PAL)";="1983";="Bit Corporation";-;YES;-;-
+="a2600";="Kung Fu Master (CCE)";="19??";CCE;kungfum;YES;-;-
+="a2600";="Kung Fu Superkicks - Pursuit of the Ninja (PAL)";="1989";Telegames;-;YES;-;-
+="a2600";="Kung-Fu Master";="1987";Activision;-;YES;-;-
+="a2600";="Kung-Fu Master (PAL)";="1987";Activision;kungfum;YES;-;-
+="a2600";="Kwibble (Prototype)";="1983";Imagic;-;YES;-;-
+="a2600";="Kyphus (Prototype)";="1982";Apollo;-;YES;-;-
+="a2600";="Labyrinth (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Lady in Wading";="1982";PlayAround;-;YES;-;-
+="a2600";="Landung in der Normandie (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Landungskommando (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Laser Base (PAL)";="1983";="ITT Family Games";-;YES;-;-
+="a2600";="Laser Blast";="1981";Activision;-;YES;-;-
+="a2600";="Laser Blast - Duell im Weltall (PAL)";="1981";Activision;laserbls;YES;-;-
+="a2600";="Laser Blast (CCE)";="19??";CCE;laserbls;YES;-;-
+="a2600";="Laser Blast (Prototype 19800808)";="1980";Activision;laserbls;YES;-;-
+="a2600";="Laser Gate";="1983";CCE;-;YES;-;-
+="a2600";="Laser Gate (PAL)";="19??";="Future Video Games";lasergat;YES;-;-
+="a2600";="Laser Gates";="1983";Imagic;-;YES;-;-
+="a2600";="Laser Gates (PAL)";="1983";Imagic;lasrgats;YES;-;-
+="a2600";="Laser Volley (Zellers)";="19??";Zellers;-;YES;-;-
+="a2600";="Lasercade (Prototype)";="1983";="20th Century Fox Video Games";-;YES;-;-
+="a2600";Lochjaw;="1981";Apollo;-;YES;-;-
+="a2600";="Lock 'n' Chase";="1982";="M Network";-;YES;-;-
+="a2600";="Lock 'n' Chase (PAL)";="1989";Telegames;lnc;YES;-;-
+="a2600";="Lock 'n' Chase (PAL) (Unknown)";="19??";-;lnc;YES;-;-
+="a2600";="London Blitz";="1983";="Avalon Hill";-;YES;-;-
+="a2600";="Looping (Prototype)";="1983";Coleco;-;YES;-;-
+="a2600";="Lost Luggage";="1981";Apollo;-;YES;-;-
+="a2600";="Lost Luggage - La valise piegee (PAL)";="1981";Apollo;lostlugg;YES;-;-
+="a2600";="Lost Luggage (Alt)";="1981";Apollo;lostlugg;YES;-;-
+="a2600";M.A.D.;="1982";="US Games";-;YES;NTSC;-
+="a2600";M*A*S*H;="1983";="20th Century Fox Video Games";-;YES;-;-
+="a2600";="M*A*S*H (PAL)";="1983";="20th Century Fox Video Games";mash;YES;-;-
+="a2600";="Mafia (PAL)";="19??";Suntek;-;YES;-;-
+="a2600";MagiCard;="1981";CommaVid;-;YES;-;-
+="a2600";Malagai;="1983";="TY Associates";-;YES;-;-
+="a2600";Mangia';="1983";Spectravideo;-;YES;-;-
+="a2600";="Mangia' (PAL)";="1983";Spectravideo;mangia;YES;-;-
+="a2600";Marauder;="1982";Tigervision;-;YES;-;-
+="a2600";="Marauder (PAL)";="1982";Tigervision;marauder;YES;-;-
+="a2600";="Marine Wars";="1983";Konami;-;YES;NTSC;-
+="a2600";="Mario Bros.";="1983";Atari;-;YES;-;-
+="a2600";="Mario Bros. (Zirok)";="19??";Zirok;mario;YES;-;-
+="a2600";="Mario's Bros.";="1983";CCE;mario;YES;-;-
+="a2600";="MASH (CCE, Alt)";="1983";CCE;mash;YES;-;-
+="a2600";="MASH (CCE)";="1983";CCE;mash;YES;-;-
+="a2600";="Master Builder";="1983";Spectravideo;-;YES;-;-
+="a2600";="Masters of the Universe - The Power of He-Man";="1983";="M Network";-;YES;-;-
+="a2600";="Math Gran Prix";="1982";Atari;-;YES;-;-
+="a2600";="Maze Craze - A Game of Cops 'n Robbers - Maze Mania - A Game of Cops 'n Robbers";="1980";Atari;-;YES;-;-
+="a2600";="Maze Craze (Unknown)";="19??";-;mazecraz;YES;-;-
+="a2600";="McDonald's - Golden Arches Adventure (Prototype 19830606)";="1983";="Parker Brothers";-;YES;-;-
+="a2600";="Medieval Mayhem";="2006";="Darrell Spice Jr.";-;YES;NTSC;-
+="a2600";="Mega Force";="1982";="20th Century Fox Video Games";-;YES;-;-
+="a2600";MegaBoy;="19??";Dynacom;-;YES;-;-
+="a2600";="MegaMania - A Space Nightmare";="1982";Activision;-;YES;-;-
+="a2600";="Megamania (CCE)";="1983";CCE;megmania;YES;-;-
+="a2600";="Megamania (Digitel)";="1983";Digitel;megmania;YES;-;-
+="a2600";="Megamania (Dynacom)";="1982";Dynacom;megmania;YES;-;-
+="a2600";="Midnight Magic";="1984";Atari;-;YES;-;-
+="a2600";="Mighty Mouse";="19??";Funvision;-;YES;-;-
+="a2600";Millipede;="1984";Atari;-;YES;-;-
+="a2600";="Millipede (Prototype 19840104)";="1984";Atari;milliped;YES;-;-
+="a2600";="Millipede (Prototype 1984xxxx)";="1984";Atari;milliped;YES;-;-
+="a2600";="Mind Maze (Prototype 19841010)";="1984";Atari;-;YES;-;-
+="a2600";="Miner 2049er - Starring Bounty Bob";="1982";Tigervision;-;YES;-;-
+="a2600";="Miner 2049er - Starring Bounty Bob (PAL)";="1982";Tigervision;="mine2049";YES;-;-
+="a2600";="Miner 2049er - Starring Bounty Bob (Prototype)";="1982";Tigervision;="mine2049";YES;-;-
+="a2600";="Miner 2049er Volume II";="1983";Tigervision;-;YES;-;-
+="a2600";="Mines of Minos";="1982";CommaVid;-;YES;-;-
+="a2600";="Miniature Golf - Arcade Golf";="1979";Atari;-;YES;-;-
+="a2600";="Miss Piggy's Wedding (Prototype 19830624)";="1983";Atari;-;YES;-;-
+="a2600";="Miss Piggy's Wedding (Prototype 1983xxxx, Alt)";="1983";Atari;piggywed;YES;-;-
+="a2600";="Miss Piggy's Wedding (Prototype 1983xxxx)";="1983";Atari;piggywed;YES;-;-
+="a2600";="Missile Command";="1981";Atari;-;YES;-;-
+="a2600";="Missile Command (Alt)";="1981";Atari;missile;YES;-;-
+="a2600";="Mission 3,000 A.D. - Mission 3000";="1983";="Bit Corporation";-;YES;-;-
+="a2600";="Mogul Maniac";="1983";Amiga;-;YES;-;-
+="a2600";="Monster Cise (Prototype)";="1984";Atari;-;YES;-;-
+="a2600";="Montezuma's Revenge - Featuring Panama Joe";="1984";="Parker Brothers";-;YES;-;-
+="a2600";="Moon Patrol";="1983";Atari;-;YES;-;-
+="a2600";="Moon Patrol (CCE)";="1983";CCE;mpatrol;YES;-;-
+="a2600";="Moon Patrol (Intellivision)";="19??";Intellivision;mpatrol;YES;-;-
+="a2600";="Moon Patrol (PAL) (Prototype 19830516)";="1983";Atari;mpatrol;YES;-;-
+="a2600";="Moon Patrol (Prototype 19830516)";="1983";Atari;mpatrol;YES;-;-
+="a2600";="Moon Patrol (Prototype 19830704)";="1983";Atari;mpatrol;YES;-;-
+="a2600";="Moon Patrol (Prototype 19830726)";="1983";Atari;mpatrol;YES;-;-
+="a2600";="Moon Patrol (Prototype 19830731)";="1983";Atari;mpatrol;YES;-;-
+="a2600";="Moon Patrol (Tron)";="19??";Tron;mpatrol;YES;-;-
+="a2600";Moonsweeper;="1983";Imagic;-;YES;-;-
+="a2600";="Moonsweeper (Activision)";="1988";Activision;moonswep;YES;-;-
+="a2600";="Moto Laser";="19??";="Star Game";-;YES;-;-
+="a2600";Motocross;="19??";Joystik;-;YES;-;-
+="a2600";="Motocross Racer";="1983";Xonox;-;YES;-;-
+="a2600";MotoRodeo;="1990";Atari;-;YES;-;-
+="a2600";="Mountain King";="1983";="CBS Electronics";-;YES;-;-
+="a2600";="Mouse Trap";="1982";Coleco;-;YES;-;-
+="a2600";="Mr. Do!";="1983";Coleco;-;YES;-;-
+="a2600";="Mr. Do!'s Castle";="1984";="Parker Brothers";-;YES;-;-
+="a2600";="Mr. Postman - O Carteiro (CCE)";="1983";CCE;mrpost;YES;-;-
+="a2600";="Mr. Postman (Digitel)";="19??";Digitel;-;YES;-;-
+="a2600";="Mr. Postman (Unknown)";="19??";-;mrpost;YES;-;-
+="a2600";="Ms. Pac-Man";="1982";Atari;-;YES;-;-
+="a2600";="Ms. Pac-Man (CCE)";="19??";CCE;mspacman;YES;-;-
+="a2600";="Ms. Pac-Man (Prototype)";="1982";Atari;mspacman;YES;-;-
+="a2600";="Name This Game";="1982";="U.S. Games Corporation";-;YES;-;-
+="a2600";="Name This Game (Digitel)";="1983";Digitel;namethis;YES;-;-
+="a2600";="Name This Game (PAL) (Unknown)";="19??";-;namethis;YES;-;-
+="a2600";="Night Driver";="1980";Atari;-;YES;-;-
+="a2600";Nightmare;="19??";CCE;-;YES;-;-
+="a2600";="No Escape!";="1982";Imagic;-;YES;-;-
+="a2600";Nuts;="19??";-;-;YES;-;-
+="a2600";="Nuts (PAL)";="1983";TechnoVision;nuts;YES;-;-
+="a2600";="Nuts (PAL) (Unknown)";="19??";-;nuts;YES;-;-
+="a2600";Obelix;="1983";Atari;-;YES;-;-
+="a2600";="Obelix (PAL)";="1983";Atari;obelix;YES;-;-
+="a2600";="Ocean City";="19??";Funvision;-;YES;-;-
+="a2600";="Octopus (PAL)";="1983";="Carrere Video";-;YES;-;-
+="a2600";="Off the Wall";="1989";Atari;-;YES;-;-
+="a2600";="Off the Wall (PAL)";="1989";Atari;offtwall;YES;-;-
+="a2600";="Off Your Rocker (Prototype)";="1983";Amiga;-;YES;-;-
+="a2600";Oink!;="1982";Activision;-;YES;-;-
+="a2600";="Oink! - Das Schweinchen und der Wolf (PAL)";="1982";Activision;oink;YES;-;-
+="a2600";="Oink! (CCE)";="19??";CCE;oink;YES;-;-
+="a2600";="Oink! (PAL) (Unknown)";="19??";-;oink;YES;-;-
+="a2600";="Omega Race";="1983";="CBS Electronics";-;YES;-;-
+="a2600";="Open Sesame (PAL)";="1983";-;opsesame;YES;-;-
+="a2600";="Open, Sesame! - Sesam, Oeffne Dich (PAL)";="1982";="Bit Corporation";opsesame;YES;-;-
+="a2600";="Oscar's Trash Race";="1983";Atari;-;YES;-;-
+="a2600";="Oscar's Trash Race (PAL)";="1983";Atari;oscarace;YES;-;-
+="a2600";="Oscar's Trash Race (Prototype 19821203)";="1982";Atari;oscarace;YES;-;-
+="a2600";="Oscar's Trash Race (Prototype 19830330)";="1983";Atari;oscarace;YES;-;-
+="a2600";Othello;="1981";Atari;-;YES;-;-
+="a2600";="Othello (Alt)";="1981";Atari;othello;YES;-;-
+="a2600";="Othello (PAL)";="1981";Atari;othello;YES;-;-
+="a2600";="Othello (PAL) (Alt)";="1981";Atari;othello;YES;-;-
+="a2600";="Out of Control";="1983";="Avalon Hill";-;YES;-;-
+="a2600";="Outlaw - Gunslinger";="1978";Atari;-;YES;-;-
+="a2600";="Outlaw (PAL)";="1979";Atari;outlaw;YES;-;-
+="a2600";="Pac Kong (PAL) (Funvision)";="19??";Funvision;packong;YES;-;-
+="a2600";="Pac Kong (PAL) (Goliath)";="1983";Goliath;-;YES;-;-
+="a2600";="Pac Kong (Unknown)";="19??";-;packong;YES;-;-
+="a2600";="Pac Man (CCE, Alt)";="1983";CCE;pacman;YES;-;-
+="a2600";="Pac Man (CCE)";="1983";CCE;pacman;YES;-;-
+="a2600";="Pac Man (Digitel)";="1983";Digitel;pacman;YES;-;-
+="a2600";="Pac-Kong (PAL) (Suntek)";="19??";Suntek;packong;YES;-;-
+="a2600";Pac-Man;="1982";Atari;-;YES;-;-
+="a2600";="Pac-Man (PAL)";="1982";Atari;pacman;YES;-;-
+="a2600";="Panda (PAL) (Suntek)";="19??";Suntek;pandachs;YES;-;-
+="a2600";="Panda Chase (PAL)";="1983";="Home Vision";-;YES;-;-
+="a2600";="Panda Chase (PAL) (Unknown)";="19??";-;pandachs;YES;-;-
+="a2600";="Parachute (PAL)";="1983";="Home Vision";-;YES;-;-
+="a2600";="Peek-A-Boo (Prototype)";="1984";Atari;-;YES;-;-
+="a2600";="Pega Ladrao";="19??";Dismac;-;YES;-;-
+="a2600";Pengo;="1984";Atari;-;YES;-;-
+="a2600";="Pengo (PAL)";="1984";Atari;pengo;YES;-;-
+="a2600";="Pengo (Prototype)";="1983";Atari;pengo;YES;-;-
+="a2600";="Pepsi Invaders - Coke Wins";="1983";Atari;-;YES;-;-
+="a2600";="Pete Rose Baseball";="1988";="Absolute Entertainment";-;YES;-;-
+="a2600";="Peter Penguin (PAL)";="1983";="ITT Family Games";-;YES;-;-
+="a2600";="Phantom Tank - Phantom-Panzer (PAL)";="1982";="Bit Corporation";-;YES;-;-
+="a2600";="Phantom Tank - Tanque Fantasma (PAL)";="1983";CCE;phanttnk;YES;-;-
+="a2600";="Phantom Tank (PAL) (Puzzy)";="1982";Puzzy;phanttnk;YES;-;-
+="a2600";="Phantom Tank (PAL) (Unknown)";="19??";-;phanttnk;YES;-;-
+="a2600";="Phantom UFO (PAL)";="1983";="Bit Corporation";-;YES;-;-
+="a2600";="Phantompanzer II (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Phanton Tank (Digivision)";="19??";Digivision;phanttnk;YES;-;-
+="a2600";="Pharaoh's Curse (PAL)";="1983";TechnoVision;-;YES;-;-
+="a2600";="Pharaoh's Curse (PAL) (Unknown)";="19??";-;pharaoh;YES;-;-
+="a2600";="Pharaoh's Curse (Unknown)";="19??";-;pharaoh;YES;-;-
+="a2600";="Philly Flasher";="1982";-;-;YES;-;-
+="a2600";Phoenix;="1982";Atari;-;YES;-;-
+="a2600";="Phoenix (CCE)";="1983";CCE;phoenix;YES;-;-
+="a2600";="Phoenix (PAL)";="1982";Atari;phoenix;YES;-;-
+="a2600";="Phoenix (Unknown)";="19??";-;phoenix;YES;-;-
+="a2600";="Phoenix (Zirok)";="19??";Zirok;phoenix;YES;-;-
+="a2600";="Pick 'n' Pile (PAL)";="1990";="Ubi Soft";-;YES;-;-
+="a2600";="Pick Up (Prototype)";="1983";="20th Century Fox Video Games";-;YES;-;-
+="a2600";Picnic;="1982";="U.S. Games Corporation";-;YES;-;-
+="a2600";="Picnic (PAL)";="1983";="Carrere Video";picnic;YES;-;-
+="a2600";="Piece o' Cake";="1982";="U.S. Games Corporation";-;YES;-;-
+="a2600";="Pigs in Space - Starring Miss Piggy";="1983";Atari;-;YES;-;-
+="a2600";="Pigs in Space - Starring Miss Piggy (PAL)";="1983";Atari;pigspace;YES;-;-
+="a2600";="Pigs in Space - Starring Miss Piggy (Prototype)";="1983";Atari;pigspace;YES;-;-
+="a2600";Pimball;="1983";CCE;-;YES;-;-
+="a2600";="Pitfall (CCE)";="1983";CCE;pitfall;YES;-;-
+="a2600";="Pitfall (Genus)";="19??";Genus;pitfall;YES;-;-
+="a2600";="Pitfall (Star Game) (aka Tom Boy)";="19??";="Star Game";pitfall;YES;-;-
+="a2600";="Pitfall (Supergame)";="1984";Supergame;pitfall;YES;-;-
+="a2600";="Pitfall II - Lost Caverns";="1983";Activision;-;YES;-;-
+="a2600";="Pitfall II - Lost Caverns (Alt)";="1984";Activision;="pitfall2";YES;-;-
+="a2600";="Pitfall II - Lost Caverns (PAL)";="1983";Activision;="pitfall2";YES;-;-
+="a2600";="Pitfall! - Abenteuer im Urwald (PAL)";="1982";Activision;pitfall;YES;-;-
+="a2600";="Pitfall! - Pitfall Harry's Jungle Adventure";="1982";Activision;-;YES;-;-
+="a2600";="Pitfall! - Pitfall Harry's Jungle Adventure (PAL) (Unknown)";="19??";-;pitfall;YES;-;-
+="a2600";="Pitfall! - Pitfall Harry's Jungle Adventure (Prototype, Older)";="1981";Activision;pitfall;YES;-;-
+="a2600";="Pitfall! - Pitfall Harry's Jungle Adventure (Prototype)";="1982";Activision;pitfall;YES;-;-
+="a2600";="Pizza Chef";="1983";CCE;-;YES;-;-
+="a2600";="Pizza Chef - Pizza Time (Prototype)";="1983";ZiMAG;pizzachf;YES;-;-
+="a2600";="Planet of the Apes (Prototype)";="1983";="20th Century Fox Video Games";-;YES;-;-
+="a2600";="Planet Patrol";="1982";Spectravideo;-;YES;-;-
+="a2600";="Planet Patrol - Planeten Patrouilie (PAL)";="1982";Spectravideo;ppatrol;YES;-;-
+="a2600";="Planet Patrol - Planeten Patrouilie (PAL) (Alt)";="1982";Spectravideo;ppatrol;YES;-;-
+="a2600";="Planet Patrol (CCE, Alt)";="1983";CCE;ppatrol;YES;-;-
+="a2600";="Planet Patrol (CCE)";="1983";CCE;ppatrol;YES;-;-
+="a2600";="Planet Patrol (PAL) (Play Video)";="1982";="Play Video";ppatrol;YES;-;-
+="a2600";="Planet Patrol (PAL) (Unknown)";="19??";-;ppatrol;YES;-;-
+="a2600";="Plaque Attack";="1983";Activision;-;YES;-;-
+="a2600";="Plaque Attack - Schutzt Eure Zaehne (PAL)";="1983";Activision;plaqueat;YES;-;-
+="a2600";="Plaque Attack (CCE)";="19??";CCE;plaqueat;YES;-;-
+="a2600";="Plaque Attack (Digivision)";="19??";Digivision;plaqueat;YES;-;-
+="a2600";="Plaque Attack (Dynacom)";="1983";Dynacom;plaqueat;YES;-;-
+="a2600";="Plaque Attack (PAL) (Unknown)";="19??";-;plaqueat;YES;-;-
+="a2600";="PlayAround Demo";="1982";PlayAround;-;YES;-;-
+="a2600";="Pleiades (Prototype)";="1983";="UA Limited";-;YES;-;-
+="a2600";="Plug Attack";="19??";Funvision;-;YES;-;-
+="a2600";Polaris;="1983";Tigervision;-;YES;-;-
+="a2600";="Polaris (PAL)";="1983";Tigervision;polaris;YES;-;-
+="a2600";="Polaris (Prototype 19830217)";="19??";Tigervision;polaris;YES;-;-
+="a2600";="Polaris (Prototype, Alt)";="1983";Tigervision;polaris;YES;-;-
+="a2600";="Pole Position";="1983";Atari;-;YES;-;-
+="a2600";="Pole Position (Alt)";="1983";Atari;polepos;YES;-;-
+="a2600";="Pole Position (CCE)";="1983";CCE;polepos;YES;-;-
+="a2600";="Pole Position (PAL)";="1983";Atari;polepos;YES;-;-
+="a2600";="Pole Position (Prototype 19830515)";="1983";Atari;polepos;YES;-;-
+="a2600";="Pole Position (Tron)";="19??";Tron;polepos;YES;-;-
+="a2600";="Polo (Prototype)";="1978";Atari;-;YES;-;-
+="a2600";="Pompeii (Prototype)";="1983";Apollo;-;YES;-;-
+="a2600";Pooyan;="1983";Konami;-;YES;-;-
+="a2600";="Pooyan (PAL)";="1983";Gakken;pooyan;YES;-;-
+="a2600";="Pooyan (PAL) (Unknown)";="19??";-;pooyan;YES;-;-
+="a2600";Popeye;="1983";="Parker Brothers";-;YES;-;-
+="a2600";="Popeye (PAL)";="1983";="Parker Brothers";popeye;YES;-;-
+="a2600";Porky's;="1983";="20th Century Fox Video Games";-;YES;-;-
+="a2600";="Pressure Cooker";="1983";Activision;-;YES;-;-
+="a2600";="Pressure Cooker (CCE)";="19??";CCE;pressure;YES;-;-
+="a2600";="Pressure Cooker (PAL)";="1983";Activision;pressure;YES;-;-
+="a2600";="Private Eye";="1983";Activision;-;YES;-;-
+="a2600";="Private Eye (CCE)";="19??";-;private;YES;-;-
+="a2600";="Private Eye (PAL)";="1983";Activision;private;YES;-;-
+="a2600";="Pygmy (PAL)";="1983";-;-;YES;-;-
+="a2600";="Pyramid War (PAL)";="19??";Suntek;-;YES;-;-
+="a2600";="Pyramid War (PAL) (Alt 2)";="19??";Suntek;pyramidw;YES;-;-
+="a2600";="Pyramid War (PAL) (Alt)";="19??";Suntek;pyramidw;YES;-;-
+="a2600";Q*bert;="1983";="Parker Brothers";-;YES;-;-
+="a2600";="Q*bert (PAL)";="1983";="Parker Brothers";qbert;YES;-;-
+="a2600";="Q*bert (PAL) (Atari)";="1987";Atari;qbert;YES;-;-
+="a2600";="Q*bert's Qubes";="1984";="Parker Brothers";-;YES;-;-
+="a2600";Quadrun;="1983";Atari;-;YES;-;-
+="a2600";="Quadrun (Prototype 19821206)";="1982";Atari;quadrun;YES;-;-
+="a2600";="Quadrun (Prototype 1983xxxx)";="1983";Atari;quadrun;YES;-;-
+="a2600";="Quest for Quintana Roo";="1984";="Sunrise Software";-;YES;-;-
+="a2600";="Quest for Quintana Roo (PAL)";="1989";Telegames;quintana;YES;-;-
+="a2600";="Quick Step!";="1983";Imagic;-;YES;-;-
+="a2600";="Quick Step! (PAL)";="1983";Imagic;quickstp;YES;-;-
+="a2600";="Rabbit Transit (Prototype 19830829)";="1983";Atari;-;YES;-;-
+="a2600";="Racing Car (PAL)";="1983";="Home Vision";-;YES;-;-
+="a2600";="Racing Car (Unknown)";="19??";-;racing;YES;-;-
+="a2600";Racquetball;="1981";Apollo;-;YES;-;-
+="a2600";="Racquetball (Alt)";="1981";Apollo;racquetb;YES;-;-
+="a2600";="Racquetball (PAL)";="1981";Apollo;racquetb;YES;-;-
+="a2600";="Racquetball (PAL) (Unknown)";="19??";-;racquetb;YES;-;-
+="a2600";="Racquetball (Unknown)";="19??";-;racquetb;YES;-;-
+="a2600";="Rad Action Pak (PAL)";="1990";HES;-;YES;-;-
+="a2600";Radar;="1983";-;-;YES;-;-
+="a2600";="Radar Lock";="1989";Atari;-;YES;-;-
+="a2600";="Radar Lock (PAL)";="1989";Atari;radarloc;YES;-;-
+="a2600";="Raft Rider";="1982";="U.S. Games Corporation";-;YES;-;-
+="a2600";="Raiders of the Lost Ark";="1982";Atari;-;YES;-;-
+="a2600";="Raiders of the Lost Ark (PAL)";="1982";Atari;raiders;YES;-;-
+="a2600";="Raketen-Angriff (PAL)";="19??";-;-;YES;-;-
+="a2600";="Ram It";="1982";Telesys;-;YES;-;-
+="a2600";="Ram It (PAL)";="1982";Telesys;ramit;YES;-;-
+="a2600";="Ram It (PAL) (Unknown)";="19??";-;ramit;YES;-;-
+="a2600";Rampage!;="1989";Activision;-;YES;-;-
+="a2600";="Rampage! (PAL)";="1989";Activision;rampage;YES;-;-
+="a2600";Reactor;="1982";="Parker Brothers";-;YES;-;-
+="a2600";="Reactor (PAL)";="1982";="Parker Brothers";reactor;YES;-;-
+="a2600";="RealSports Baseball";="1982";Atari;-;YES;-;-
+="a2600";="RealSports Baseball (Prototype 19820709)";="1982";Atari;rsbaseb;YES;-;-
+="a2600";="RealSports Baseball (Prototype 1982xxxx)";="1982";Atari;rsbaseb;YES;-;-
+="a2600";="RealSports Basketball (PAL)";="1983";Atari;-;YES;-;-
+="a2600";="RealSports Boxing";="1987";Atari;-;YES;-;-
+="a2600";="RealSports Boxing (PAL)";="1987";Atari;rsboxing;YES;-;-
+="a2600";="RealSports Football";="1982";Atari;-;YES;-;-
+="a2600";="RealSports Football (Prototype)";="1982";Atari;rsfootb;YES;-;-
+="a2600";="RealSports Soccer - Football - RealSports Soccer";="1983";Atari;-;YES;-;-
+="a2600";="RealSports Soccer - Football - RealSports Soccer (Alt)";="1983";Atari;rssoccer;YES;-;-
+="a2600";="RealSports Soccer - Football - RealSports Soccer (PAL)";="1983";Atari;rssoccer;YES;-;-
+="a2600";="RealSports Soccer - Football - RealSports Soccer (Prototype)";="1983";Atari;rssoccer;YES;-;-
+="a2600";="RealSports Tennis";="1983";-;-;YES;-;-
+="a2600";="RealSports Tennis (PAL)";="1983";-;rstennis;YES;-;-
+="a2600";="RealSports Tennis (Prototype)";="1982";Atari;rstennis;YES;-;-
+="a2600";="RealSports Volleyball";="1982";Atari;-;YES;-;-
+="a2600";="RealSports Volleyball (PAL)";="1982";Atari;rsvolley;YES;-;-
+="a2600";="Red Vs. Blue - Football (Prototype)";="1981";Atari;-;YES;-;-
+="a2600";="Rescue Terra I";="1982";VentureVision;-;YES;-;-
+="a2600";="Resgate Espacial";="19??";CCE;-;YES;-;-
+="a2600";="Return to Haunted House (Flashback 2)";="2005";="Syzygy Company";-;YES;NTSC;-
+="a2600";="Revenge of the Beefsteak Tomatoes";="1982";="20th Century Fox Video Games";-;YES;-;-
+="a2600";="Riddle of the Sphinx";="1982";Imagic;-;YES;-;-
+="a2600";="Riddle of the Sphinx (PAL)";="1982";Imagic;rsphinx;YES;-;-
+="a2600";="River Patrol";="1984";Tigervision;-;YES;-;-
+="a2600";="River Raid";="1982";Activision;-;YES;-;-
+="a2600";="River Raid - Jagdflieger (PAL)";="1982";Activision;riveraid;YES;-;-
+="a2600";="River Raid (CCE, Alt)";="1983";CCE;riveraid;YES;-;-
+="a2600";="River Raid (CCE)";="1983";CCE;riveraid;YES;-;-
+="a2600";="River Raid (Digitel)";="1983";Digitel;riveraid;YES;-;-
+="a2600";="River Raid (Digivision)";="19??";Digivision;riveraid;YES;-;-
+="a2600";="River Raid (Galaga Games)";="1984";="Galaga Games";riveraid;YES;-;-
+="a2600";="River Raid (Genus)";="19??";Genus;riveraid;YES;-;-
+="a2600";="River Raid (PAL) (Galaga Games)";="1984";="Galaga Games";riveraid;YES;-;-
+="a2600";="River Raid (PAL) (Unknown)";="19??";-;riveraid;YES;-;-
+="a2600";="River Raid (Polyvox)";="19??";Polyvox;riveraid;YES;-;-
+="a2600";="River Raid (Robby)";="19??";Robby;riveraid;YES;-;-
+="a2600";="River Raid (Star Game)";="19??";="Star Game";riveraid;YES;-;-
+="a2600";="River Raid (Supergame)";="1984";Supergame;riveraid;YES;-;-
+="a2600";="River Raid II";="1988";Activision;-;YES;-;-
+="a2600";="River Raid II (Digimax)";="19??";Digimax;="riverai2";YES;-;-
+="a2600";="River Raid II (Digitel)";="1985";Digitel;="riverai2";YES;-;-
+="a2600";="River Raid II (PAL)";="1988";Activision;="riverai2";YES;-;-
+="a2600";="River Raid II (Supergame)";="19??";Supergame;="riverai2";YES;-;-
+="a2600";="River Raid III (Digitel)";="1985";Digitel;riveraid;YES;-;-
+="a2600";="River Raid III (Supergame)";="19??";Supergame;riveraid;YES;-;-
+="a2600";="Road Runner";="1989";Atari;-;YES;-;-
+="a2600";="Road Runner (CCE)";="19??";CCE;roadrun;YES;-;-
+="a2600";="Road Runner (PAL)";="1989";Atari;roadrun;YES;-;-
+="a2600";="Road Runner (Prototype 19840625)";="1984";Atari;roadrun;YES;-;-
+="a2600";="Robin Hood";="1983";Xonox;-;YES;-;-
+="a2600";="Robin Hood (PAL)";="1983";Xonox;robinh;YES;-;-
+="a2600";="Robin Hood (PAL) (Quelle)";="1983";Quelle;robinh;YES;-;-
+="a2600";="Robot Tank";="1983";Activision;-;YES;-;-
+="a2600";="Robot Tank - Rebellion der Roboter (PAL)";="1983";Activision;robottnk;YES;-;-
+="a2600";="Roc 'n Rope";="1984";Coleco;-;YES;-;-
+="a2600";="Roc 'n Rope (PAL)";="1984";="CBS Electronics";rocnrope;YES;-;-
+="a2600";="Rocky & Bullwinkle (Prototype 19830420)";="19??";="M Network";-;YES;-;-
+="a2600";="Rodeo Champ (PAL)";="1983";-;-;YES;-;-
+="a2600";="Room of Doom";="1982";CommaVid;-;YES;-;-
+="a2600";="Room of Doom - Raum ohne Ausweg (PAL)";="1982";CommaVid;roomdoom;YES;-;-
+="a2600";="Rubik's Cube";="1984";Atari;-;YES;-;-
+="a2600";="Rubik's Cube 3-D (Prototype)";="1982";Atari;-;YES;-;-
+="a2600";="Rush Hour (Prototype, Alt 2)";="1983";Commavid;rushhour;YES;-;-
+="a2600";="Rush Hour (Prototype, Alt 3)";="1983";Commavid;rushhour;YES;-;-
+="a2600";="Rush Hour (Prototype, Alt 4)";="1983";Commavid;rushhour;YES;-;-
+="a2600";="Rush Hour (Prototype, Alt 5)";="1983";Commavid;rushhour;YES;-;-
+="a2600";="Rush Hour (Prototype, Alt)";="1983";Commavid;rushhour;YES;-;-
+="a2600";="Rush Hour (Prototype)";="1983";Commavid;-;YES;-;-
+="a2600";="Saboteur (Prototype 19830520)";="1983";Atari;saboteur;YES;-;-
+="a2600";="Saboteur (Prototype 19830609)";="1983";Atari;saboteur;YES;-;-
+="a2600";="Saboteur (Prototype 19830615)";="1983";Atari;saboteur;YES;-;-
+="a2600";="Saboteur (Prototype 19830902)";="1983";Atari;saboteur;YES;-;-
+="a2600";="Saboteur (Prototype 19831220)";="1983";Atari;-;YES;-;-
+="a2600";="Save Mary! (PAL) (Prototype 19911024)";="1991";Atari;savemary;YES;-;-
+="a2600";="Save Mary! (Prototype 19890403)";="1989";Atari;savemary;YES;-;-
+="a2600";="Save Mary! (Prototype 19891121)";="1989";Atari;-;YES;-;-
+="a2600";="Save Our Ship (PAL)";="1983";TechnoVision;-;YES;-;-
+="a2600";="Save Our Ship (Unknown)";="19??";-;sos;YES;-;-
+="a2600";="Save the Whales (Prototype)";="1983";="20th Century Fox Video Games";-;YES;-;-
+="a2600";="Schiessbude (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Scuba Diver";="1983";-;-;YES;-;-
+="a2600";="Sea Battle";="1983";="M Network";-;YES;-;-
+="a2600";="Sea Hawk";="1983";Panda;seahawk;YES;-;-
+="a2600";="Sea Hawk (CCE)";="19??";CCE;seahawk;YES;-;-
+="a2600";="Sea Hawk (Unknown)";="1987";Sancho;seahawk;YES;-;-
+="a2600";="Sea Hunt (CCE)";="19??";CCE;-;YES;-;-
+="a2600";="Sea Hunt (Unknown)";="1987";Sancho;seahunt;YES;-;-
+="a2600";="Sea Monster - O Monstro Marinho (CCE)";="1983";CCE;seamonst;YES;-;-
+="a2600";="Sea Monster - See-Monster (PAL)";="1982";="Bit Corporation";seamonst;YES;-;-
+="a2600";="Sea Monster (PAL) (Puzzy)";="1982";Puzzy;seamonst;YES;-;-
+="a2600";="Sea Monster (PAL) (Unknown)";="19??";-;seamonst;YES;-;-
+="a2600";="Seahawk (PAL)";="1982";="Tang's Electronic Co.";-;YES;-;-
+="a2600";="Seamonster - Monstre des Mers";="1982";="Bit Corporation";-;YES;-;-
+="a2600";Seaquest;="1983";Activision;-;YES;-;-
+="a2600";="Seaquest - Rettung aus der Tiefe (PAL)";="1983";Activision;seaquest;YES;-;-
+="a2600";="Seaquest (CCE, Alt)";="1983";CCE;seaquest;YES;-;-
+="a2600";="Seaquest (CCE)";="1983";CCE;seaquest;YES;-;-
+="a2600";="Seaquest (Digivision)";="19??";Digivision;seaquest;YES;-;-
+="a2600";="Seaquest (Dinatronic)";="19??";Dinatronic;seaquest;YES;-;-
+="a2600";="Seaquest (Dynacom)";="1983";Dynacom;seaquest;YES;-;-
+="a2600";="Seawolf 3 (PAL) (Prototype 19810323)";="1983";Sears;-;YES;-;-
+="a2600";="Secret Agent (Prototype)";="1983";="Data Age";-;YES;-;-
+="a2600";="Secret Quest";="1989";Atari;-;YES;-;-
+="a2600";="Secret Quest (PAL)";="1989";Atari;squest;YES;-;-
+="a2600";="See Saw (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";Sentinel;="1990";Atari;-;YES;-;-
+="a2600";="Shark Attack";="1982";Apollo;-;YES;-;-
+="a2600";="Shark Attack (PAL)";="1982";Apollo;sharkatt;YES;-;-
+="a2600";="Shootin' Gallery";="1982";Imagic;-;YES;-;-
+="a2600";="Shooting Arcade (PAL) (Prototype 19900116)";="1990";Atari;shootarc;YES;-;-
+="a2600";="Shooting Arcade (Prototype 19890919)";="1989";Atari;-;YES;-;-
+="a2600";="Shuttle Orbiter";="1983";="Avalon Hill";-;YES;-;-
+="a2600";="Sinistar (Prototype 19840104)";="1984";Atari;sinistar;YES;-;-
+="a2600";="Sinistar (Prototype 19840123)";="1984";Atari;sinistar;YES;-;-
+="a2600";="Sinistar (Prototype 19840213)";="1984";Atari;-;YES;-;-
+="a2600";="Sinistar (Prototype 1984xxxx)";="1984";Atari;sinistar;YES;-;-
+="a2600";="Sir Lancelot";="1983";Xonox;-;YES;-;-
+="a2600";="Sir Lancelot (PAL)";="1983";Xonox;sirlance;YES;-;-
+="a2600";="Skate Boardin'";="1987";="Absolute Entertainment";-;YES;-;-
+="a2600";="Skate Boardin' (PAL)";="1987";="Absolute Entertainment";skateb;YES;-;-
+="a2600";="Skeet Shoot";="1981";Apollo;-;YES;-;-
+="a2600";="Skeet Shoot (PAL)";="1981";Apollo;skeet;YES;-;-
+="a2600";="Ski Hunt (PAL)";="1983";="Home Vision";-;YES;-;-
+="a2600";="Ski Run (PAL)";="19??";Suntek;-;YES;-;-
+="a2600";="Skiing - Le Ski";="1980";Activision;-;YES;-;-
+="a2600";="Skiing - Ski Weltcup (PAL)";="1980";Activision;skiing;YES;-;-
+="a2600";="Skiing (Milmar)";="19??";Milmar;skiing;YES;-;-
+="a2600";="Sky Alien (PAL)";="1983";="Home Vision";-;YES;-;-
+="a2600";="Sky Diver - Dare Diver";="1979";Atari;-;YES;-;-
+="a2600";="Sky Diver (PAL)";="1979";Atari;skydiver;YES;-;-
+="a2600";="Sky Jinks";="1982";Activision;-;YES;NTSC;-
+="a2600";="Sky Patrol (Prototype)";="1982";Imagic;-;YES;-;-
+="a2600";="Sky Skipper";="1983";="Parker Brothers";-;YES;-;-
+="a2600";="Sky Skipper (PAL)";="1983";="Parker Brothers";skyskipp;YES;-;-
+="a2600";="Slot Machine - Slots";="1979";Atari;-;YES;-;-
+="a2600";="Slot Machine (PAL)";="1979";Atari;slot;YES;-;-
+="a2600";="Slot Racers - Maze";="1978";Atari;-;YES;-;-
+="a2600";="Slot Racers (PAL)";="1978";Atari;slotrace;YES;-;-
+="a2600";="Smash Hit Pak (PAL)";="19??";HES;-;YES;-;-
+="a2600";="Smurf - Rescue in Gargamel's Castle";="1982";Coleco;-;YES;-;-
+="a2600";="Smurf - Schtroumpfs - Pitufo (PAL)";="1982";="CBS Electronics";smurfs;YES;-;-
+="a2600";="Smurfs Save the Day";="1983";Coleco;-;YES;-;-
+="a2600";="Snail Against Squirrel - Schnecke gegen Eichhoernchen (PAL)";="1983";="Bit Corporation";-;YES;-;-
+="a2600";="Snail Against Squirrel (PAL) (Unknown)";="19??";-;snail;YES;-;-
+="a2600";="Sneak 'n Peek";="1982";="U.S. Games Corporation";-;YES;-;-
+="a2600";="Sneak 'n Peek (PAL) (Unknown)";="19??";-;sneakpek;YES;-;-
+="a2600";Snoopy;="19??";Digivision;snoopy;YES;-;-
+="a2600";="Snoopy (PAL) (Century)";="1983";Century;snoopy;YES;-;-
+="a2600";="Snoopy and the Red Baron";="1983";Atari;-;YES;-;-
+="a2600";="Snoopy and the Red Baron (CCE)";="19??";CCE;snoopy;YES;-;-
+="a2600";="Snoopy and the Red Baron (Intellivision)";="19??";Intellivision;snoopy;YES;-;-
+="a2600";="Snoopy and the Red Baron (PAL)";="1983";Atari;snoopy;YES;-;-
+="a2600";="Snoopy and the Red Baron (Prototype 19830527)";="1983";Atari;snoopy;YES;-;-
+="a2600";="Snow White and the Seven Dwarfs (Prototype 19821109)";="1982";Atari;snowwhit;YES;-;-
+="a2600";="Snow White and the Seven Dwarfs (Prototype 19830209)";="1983";Atari;-;YES;-;-
+="a2600";Soccer;="1989";Telegames;-;YES;-;-
+="a2600";="Solar Fox";="1983";="CBS Electronics";-;YES;-;-
+="a2600";="Solar Fox (PAL)";="1983";="CBS Electronics";solarfox;YES;-;-
+="a2600";="Solar Storm";="1983";Imagic;-;YES;-;-
+="a2600";="Solar Storm (PAL)";="1983";Imagic;solarstr;YES;-;-
+="a2600";Solaris;="1986";Atari;-;YES;-;-
+="a2600";="Solaris (PAL)";="1986";Atari;solaris;YES;-;-
+="a2600";Sorcerer;="1983";Mythicon;-;YES;-;-
+="a2600";="Sorcerer's Apprentice";="1983";Atari;-;YES;-;-
+="a2600";="Sorcerer's Apprentice (Alt)";="1983";Atari;sorcappr;YES;-;-
+="a2600";="Sorcerer's Apprentice (PAL)";="1983";Atari;sorcappr;YES;-;-
+="a2600";="Sorcerer's Apprentice (Prototype)";="1983";Atari;sorcappr;YES;-;-
+="a2600";="Space Adventure";="19??";Zellers;-;YES;-;-
+="a2600";="Space Attack";="1982";="M Network";-;YES;-;-
+="a2600";="Space Attack (PAL)";="1989";Telegames;spaceatt;YES;-;-
+="a2600";="Space Canyon";="1983";-;-;YES;-;-
+="a2600";="Space Cavern";="1981";Apollo;-;YES;-;-
+="a2600";="Space Cavern - Les guerriers de l'espace (PAL)";="1981";Apollo;spacecav;YES;-;-
+="a2600";="Space Invaders";="1980";Atari;-;YES;-;-
+="a2600";="Space Invaders (Alt)";="1980";Atari;spaceinv;YES;-;-
+="a2600";="Space Invaders (CCE)";="1983";CCE;spaceinv;YES;-;-
+="a2600";="Space Invaders (Fixed?)";="1980";Atari;spaceinv;YES;-;-
+="a2600";="Space Invaders (PAL)";="1980";Atari;spaceinv;YES;-;-
+="a2600";="Space Jockey";="1982";="U.S. Games Corporation";-;YES;-;-
+="a2600";="Space Jockey (PAL)";="1983";="Carrere Video";spacejoc;YES;-;-
+="a2600";="Space Jockey (PAL) (Unknown)";="19??";-;spacejoc;YES;-;-
+="a2600";="Space Raid (PAL)";="19??";Suntek;-;YES;-;-
+="a2600";="Space Raid (PAL) (Alt)";="19??";Suntek;spacraid;YES;-;-
+="a2600";="Space Raid (PAL) (King Tripod Enterprise Co.)";="19??";="King Tripod Enterprise Co.";nexar;YES;-;-
+="a2600";="Space Robot";="19??";Sinmax;-;YES;-;-
+="a2600";="Space Robot (PAL)";="19??";Sinmax;spcrobot;YES;-;-
+="a2600";="Space Robot (PAL) (Unknown)";="19??";-;spcrobot;YES;-;-
+="a2600";="Space Robot (Unknown)";="19??";-;spcrobot;YES;-;-
+="a2600";="Space Rocks (RC7, NTSC)";="2012";Spiceware;-;YES;NTSC;-
+="a2600";="Space Shuttle - A Journey Into Space";="1983";Activision;-;YES;-;-
+="a2600";="Space Shuttle - A Journey Into Space - Eine Reise ins All (PAL)";="1983";Activision;shuttle;YES;-;-
+="a2600";="Space Shuttle - A Journey Into Space (Alt, FE bankswitching)";="1983";Activision;shuttle;YES;-;-
+="a2600";="Space Tunnel - Le Tunnel de L'Estace (Puzzy)";="1982";Puzzy;spacetun;YES;-;-
+="a2600";="Space Tunnel - O Tunel Espacial (CCE)";="1983";CCE;spacetun;YES;-;-
+="a2600";="Space Tunnel - Weltraum-Tunnel";="1982";="Bit Corporation";-;YES;-;-
+="a2600";="Space Tunnel - Weltraum-Tunnel (PAL)";="1982";="Bit Corporation";spacetun;YES;-;-
+="a2600";="Space Tunnel (PAL) (Puzzy)";="1982";Puzzy;spacetun;YES;-;-
+="a2600";="Space War - Space Combat";="1978";Atari;-;YES;-;-
+="a2600";="Space War (PAL)";="1978";Atari;spacewar;YES;-;-
+="a2600";Spacechase;="1981";Apollo;-;YES;-;-
+="a2600";="Spacechase (PAL)";="1981";Apollo;schase;YES;-;-
+="a2600";="SpaceMaster X-7";="1983";="20th Century Fox Video Games";-;YES;-;-
+="a2600";="Spectracube Invasion (PAL)";="19??";-;-;YES;-;-
+="a2600";="Spider Fighter";="1982";Activision;-;YES;-;-
+="a2600";="Spider Fighter - Monster greifen an (PAL)";="1982";Activision;spidfght;YES;-;-
+="a2600";="Spider Fighter (CCE)";="1983";CCE;spidfght;YES;-;-
+="a2600";="Spider Fighter (Digivision)";="19??";Digivision;spidfght;YES;-;-
+="a2600";="Spider Fighter (Dynacom)";="1983";Dynacom;spidfght;YES;-;-
+="a2600";="Spider Fighter (Intellivision)";="19??";Intellivision;spidfght;YES;-;-
+="a2600";="Spider Fighter (PAL) (Unknown)";="19??";-;spidfght;YES;-;-
+="a2600";="Spider Kong (PAL) (Unknown)";="19??";-;-;YES;-;-
+="a2600";="Spider Maze";="1982";="K-Tel Vision";-;YES;-;-
+="a2600";="Spider Maze (PAL)";="1982";Funvision;spidmaze;YES;-;-
+="a2600";="Spider Monster - Inca Gold (PAL)";="1982";Funvision;-;YES;-;-
+="a2600";Spider-Man;="1982";="Parker Brothers";-;YES;-;-
+="a2600";="Spider-Man (PAL)";="1982";="Parker Brothers";spidermn;YES;-;-
+="a2600";Spiderdroid;="1987";-;-;YES;-;-
+="a2600";="Spiderman (PAL) (Quelle)";="1983";Quelle;spidermn;YES;-;-
+="a2600";="Spike's Peak";="1983";Xonox;-;YES;-;-
+="a2600";="Spike's Peak (PAL)";="1983";Xonox;spikpeak;YES;-;-
+="a2600";="Spinning Fireball - Fire Spinner - Fireball Spinner (Prototype, Alt)";="1983";ZiMAG;spinfire;YES;-;-
+="a2600";="Spinning Fireball - Fire Spinner - Fireball Spinner (Prototype)";="1983";ZiMAG;spinfire;YES;-;-
+="a2600";="Spinning Fireball (PAL) (Unknown)";="19??";-;-;YES;-;-
+="a2600";="Spitfire Attack";="1983";="Milton Bradley Company";-;YES;-;-
+="a2600";="Sports Action Pak (PAL)";="1988";HES;-;YES;-;-
+="a2600";Springer;="1982";Tigervision;-;YES;-;-
+="a2600";="Springer (PAL)";="1982";Tigervision;springer;YES;-;-
+="a2600";="Sprint Master";="1988";Atari;-;YES;-;-
+="a2600";="Sprint Master (PAL)";="1988";Atari;sprintm;YES;-;-
+="a2600";="Spy Hunter";="1984";-;-;YES;-;-
+="a2600";="Spy Vs. Spy (PAL)";="1983";-;-;YES;-;-
+="a2600";="Squeeze Box";="1982";="U.S. Games Corporation";-;YES;-;-
+="a2600";="Squirrel - O Esquilo";="1983";-;-;YES;-;-
+="a2600";="Squoosh (Prototype, Alt)";="1983";Apollo;squoosh;YES;-;-
+="a2600";="Squoosh (Prototype)";="1983";Apollo;-;YES;-;-
+="a2600";Sssnake;="1982";="Data Age";-;YES;-;-
+="a2600";="Sssnake (PAL)";="1983";Gameworld;sssnake;YES;-;-
+="a2600";Stampede;="1981";Activision;-;YES;-;-
+="a2600";="Stampede - Lasso-Helden (PAL)";="1981";Activision;stampede;YES;-;-
+="a2600";="Stampede (Intellivision)";="19??";Intellivision;stampede;YES;-;-
+="a2600";="Stampede (PAL) (Unknown)";="19??";-;stampede;YES;-;-
+="a2600";="Star Fox";="1983";Mythicon;-;YES;-;-
+="a2600";="Star Raiders";="1982";Atari;-;YES;-;-
+="a2600";="Star Raiders (PAL)";="1982";Atari;starraid;YES;-;-
+="a2600";="Star Raiders (Prototype)";="1981";Atari;starraid;YES;-;-
+="a2600";="Star Ship - Outer Space";="1977";Atari;-;YES;-;-
+="a2600";="Star Strike";="1983";="M Network";-;YES;-;-
+="a2600";="Star Strike (PAL)";="1989";Telegames;starstrk;YES;-;-
+="a2600";="Star Trek - Strategic Operations Simulator";="1983";Sega;-;YES;-;-
+="a2600";="Star Trek - Strategic Operations Simulator (PAL)";="1983";Sega;startrek;YES;-;-
+="a2600";="Star Voyager";="1982";Imagic;-;YES;-;-
+="a2600";="Star Voyager (CCE, Alt)";="1983";CCE;svoyager;YES;-;-
+="a2600";="Star Voyager (CCE)";="1983";CCE;svoyager;YES;-;-
+="a2600";="Star Voyager (PAL)";="1982";Imagic;svoyager;YES;-;-
+="a2600";="Star Wars - Jedi Arena";="1983";="Parker Brothers";-;YES;-;-
+="a2600";="Star Wars - Jedi Arena (PAL)";="1983";="Parker Brothers";jediaren;YES;-;-
+="a2600";="Star Wars - Return of the Jedi - Death Star Battle";="1983";="Parker Brothers";-;YES;-;-
+="a2600";="Star Wars - Return of the Jedi - Death Star Battle (PAL)";="1983";="Parker Brothers";jedidsb;YES;-;-
+="a2600";="Star Wars - Return of the Jedi - Ewok Adventure (PAL)";="1983";="Parker Brothers";-;YES;-;-
+="a2600";="Star Wars - Return of the Jedi - Ewok Adventure (Prototype)";="1983";="Parker Brothers";jediewok;YES;-;-
+="a2600";="Star Wars - The Arcade Game";="1984";="Parker Brothers";-;YES;-;-
+="a2600";="Star Wars - The Arcade Game (PAL)";="1984";="Parker Brothers";starwars;YES;-;-
+="a2600";="Star Wars - The Arcade Game (Prototype 19831205)";="1983";="Parker Brothers";starwars;YES;-;-
+="a2600";="Star Wars - The Arcade Game (Prototype 19831215)";="1983";="Parker Brothers";starwars;YES;-;-
+="a2600";="Star Wars - The Arcade Game (Prototype 19831223)";="1983";="Parker Brothers";starwars;YES;-;-
+="a2600";="Star Wars - The Arcade Game (Prototype 19840103)";="1984";="Parker Brothers";starwars;YES;-;-
+="a2600";="Star Wars - The Arcade Game (Prototype 19840405)";="1984";="Parker Brothers";starwars;YES;-;-
+="a2600";="Star Wars - The Empire Strikes Back";="1982";="Parker Brothers";-;YES;-;-
+="a2600";="Star Wars - The Empire Strikes Back (PAL)";="1982";="Parker Brothers";esb;YES;-;-
+="a2600";Stargate;="1984";Atari;-;YES;-;-
+="a2600";="Stargate (PAL)";="1984";Atari;stargate;YES;-;-
+="a2600";Stargunner;="1982";Telesys;-;YES;-;-
+="a2600";StarMaster;="1982";Activision;-;YES;-;-
+="a2600";="StarMaster - Kommando Galaxis (PAL)";="1982";Activision;starmast;YES;-;-
+="a2600";="StarMaster - Kommando Galaxis (PAL) (Fixed?)";="1982";Activision;starmast;YES;-;-
+="a2600";="StarMaster (PAL) (Unknown)";="19??";-;starmast;YES;-;-
+="a2600";="Starpath Supercharger";="1982";="Arcadia Corporation ~ Starpath Corporation";-;YES;-;-
+="a2600";="Stay Frosty 2 (NTSC, demo)";="2013";Spiceware;="stayfr2";YES;NTSC;-
+="a2600";="Stay Frosty 2 (NTSC)";="2013";Spiceware;-;YES;NTSC;-
+="a2600";Steeplechase;="1980";Sears;-;YES;-;-
+="a2600";="Steeplechase (PAL)";="1983";="Video Gems";steeplec;YES;-;-
+="a2600";="Steeplechase (Prototype 19800415)";="1980";Sears;steeplec;YES;-;-
+="a2600";="Stella's Stocking 2008";="2008";AtariAge;-;YES;NTSC;-
+="a2600";="Stellar Track";="1980";Sears;-;YES;-;-
+="a2600";="Stone Age";="1983";CCE;-;YES;-;-
+="a2600";="Stopp die Gangster (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Strahlen der Teufelsvoegel (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Strategy X";="1983";Konami;-;YES;-;-
+="a2600";="Strategy X (PAL)";="1983";Gakken;strategx;YES;-;-
+="a2600";="Strawberry Shortcake - Musical Match-Ups";="1983";="Parker Brothers";-;YES;-;-
+="a2600";="Strawberry Shortcake - Musical Match-Ups (PAL)";="1983";="Parker Brothers";strawmm;YES;-;-
+="a2600";="Street Racer - Speedway II";="1977";Atari;-;YES;-;-
+="a2600";="Street Racer (PAL)";="1977";Atari;sracer;YES;-;-
+="a2600";Stronghold;="1983";CommaVid;-;YES;-;-
+="a2600";="Stunt Cycle (Prototype 19800721)";="1980";Atari;-;YES;-;-
+="a2600";="Stunt Man";="1983";-;-;YES;-;-
+="a2600";Sub-Scan;="1982";Sega;-;YES;-;-
+="a2600";="Sub-Scan (PAL) (Unknown)";="19??";-;subscan;YES;-;-
+="a2600";="Submarine Commander";="1982";Sears;-;YES;-;-
+="a2600";Subterranea;="1983";Imagic;-;YES;-;-
+="a2600";="Subterranea (PAL)";="1983";Imagic;subterra;YES;-;-
+="a2600";="Summer Games";="1987";Epyx;-;YES;-;-
+="a2600";="Summer Games (PAL)";="1987";Epyx;sumgames;YES;-;-
+="a2600";="Super Action Pak (PAL)";="1988";HES;-;YES;-;-
+="a2600";="Super Baseball";="1988";Atari;-;YES;-;-
+="a2600";="Super Baseball (CCE)";="19??";CCE;rsbaseb;YES;-;-
+="a2600";="Super Baseball (PAL)";="1988";Atari;superbas;YES;-;-
+="a2600";="Super Box (CCE)";="19??";CCE;-;YES;-;-
+="a2600";="Super Breakout";="1981?";Atari;-;YES;-;-
+="a2600";="Super Breakout (Alt)";="1981?";Atari;sbrkout;YES;-;-
+="a2600";="Super Breakout (PAL)";="1981?";Atari;sbrkout;YES;-;-
+="a2600";="Super Challenge Baseball (JYTEC)";="1978";="Jone Yuan Telephonic Enterprise Co";scbasbal;YES;NTSC;-
+="a2600";="Super Challenge Baseball (Mattel)";="1978";Mattel;-;YES;NTSC;-
+="a2600";="Super Challenge Football - Football";="1982";="M Network";-;YES;-;-
+="a2600";="Super Cobra";="1982";="Parker Brothers";-;YES;-;-
+="a2600";="Super Cobra (PAL)";="1982";="Parker Brothers";scobra;YES;-;-
+="a2600";="Super Ferrari (PAL)";="19??";Suntek;-;YES;-;-
+="a2600";="Super Football";="1988";Atari;-;YES;-;-
+="a2600";="Super Football (PAL)";="1988";Atari;supfootb;YES;-;-
+="a2600";="Super Futebol (CCE, Football)";="19??";CCE;supfootb;YES;-;-
+="a2600";="Super Futebol (CCE, Soccer)";="19??";CCE;rssoccer;YES;-;-
+="a2600";="Super Hit Pak (PAL)";="19??";HES;-;YES;-;-
+="a2600";="Super Kung-Fu (PAL)";="1983";Xonox;-;YES;-;-
+="a2600";="Super Soccer";="19??";Digivision;rssoccer;YES;-;-
+="a2600";="Super Tenis (VGS)";="19??";VGS;rstennis;YES;-;-
+="a2600";="Super Tennis (CCE)";="1983";CCE;rstennis;YES;-;-
+="a2600";="Super Tennis (Tron)";="19??";Tron;rstennis;YES;-;-
+="a2600";="Super Voleyball";="19??";CCE;rsvolley;YES;-;-
+="a2600";="Super-Cowboy beim Rodeo (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Super-Ferrari (PAL) (Quelle)";="1983";Quelle;ferrari;YES;-;-
+="a2600";="Super-Ferrari (Unknown)";="19??";-;ferrari;YES;-;-
+="a2600";Superman;="1979";Atari;-;YES;-;-
+="a2600";="Superman (CCE)";="1983";CCE;superman;YES;-;-
+="a2600";="Superman (Fixed?)";="1979";Atari;superman;YES;-;-
+="a2600";="Superman (PAL)";="1979";Atari;superman;YES;-;-
+="a2600";="Superman (PAL) (Unknown)";="19??";-;superman;YES;-;-
+="a2600";="Surf's Up (Prototype, Alt)";="1983";Amiga;surfsup;YES;-;-
+="a2600";="Surf's Up (Prototype)";="1983";Amiga;-;YES;-;-
+="a2600";="Surfer's Paradise - But Danger Below! (PAL)";="1983";="Video Gems";-;YES;-;-
+="a2600";="Surround - Chase";="1977";Atari;-;YES;-;-
+="a2600";="Surround (PAL)";="1977";Atari;surround;YES;-;-
+="a2600";="Survival Run";="1983";="Milton Bradley Company";-;YES;-;-
+="a2600";="Survival Run (Prototype)";="1983";="Data Age";survival;YES;-;-
+="a2600";Swordfight;="1983";="M Network";-;YES;-;-
+="a2600";="SwordQuest - EarthWorld";="1982";Atari;-;YES;-;-
+="a2600";="SwordQuest - EarthWorld (PAL)";="1982";Atari;sqearth;YES;-;-
+="a2600";="SwordQuest - FireWorld";="1982";Atari;-;YES;-;-
+="a2600";="SwordQuest - FireWorld (PAL)";="1982";Atari;sqfire;YES;-;-
+="a2600";="SwordQuest - WaterWorld";="1983";Atari;-;YES;-;-
+="a2600";Tac-Scan;="1982";Sega;-;YES;-;-
+="a2600";="Tac-Scan (PAL) (Unknown)";="19??";-;tacscan;YES;-;-
+="a2600";="Tank Brigade";="1983";Panda;-;YES;-;-
+="a2600";="Tank City";="19??";Funvision;-;YES;-;-
+="a2600";="Tanks But No Tanks";="1983";ZiMAG;-;YES;-;-
+="a2600";="Tanks War (PAL)";="1983";="Home Vision";-;YES;-;-
+="a2600";Tapeworm;="1982";Spectravideo;-;YES;-;-
+="a2600";="Tapeworm (PAL)";="1982";Spectravideo;tapeworm;YES;-;-
+="a2600";Tapper;="1984";Sega;-;YES;-;-
+="a2600";="Targ (Prototype)";="1983";="CBS Electronics";-;YES;-;-
+="a2600";="Target Practice";="1983";CEE;-;YES;-;-
+="a2600";="Target Practice (Alt)";="1983";CEE;targprac;YES;-;-
+="a2600";="Task Force";="1987";-;-;YES;-;-
+="a2600";="Tax Avoiders";="1982";="American Videogame";-;YES;-;-
+="a2600";Taz;="1983";Atari;-;YES;NTSC;-
+="a2600";="Taz (PAL) (Prototype 19830615)";="1983";Atari;taz;YES;-;-
+="a2600";="Taz (Prototype 19830713)";="1983";Atari;taz;YES;-;-
+="a2600";="Taz (Prototype 19830715)";="1983";Atari;taz;YES;-;-
+="a2600";="Taz (Prototype 1983xxxx, Alt)";="1983";Atari;taz;YES;-;-
+="a2600";="Taz (Prototype 1983xxxx)";="1983";Atari;taz;YES;-;-
+="a2600";="Teddy Apple (PAL)";="1983";-;-;YES;-;-
+="a2600";="Telepathy (Prototype)";="1983";Atari;-;YES;-;-
+="a2600";="Teller-Jonglieren! (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Tempest (Prototype 19840105)";="1984";Atari;-;YES;-;-
+="a2600";="Tennis - Le Tennis";="1981";Activision;-;YES;-;-
+="a2600";="Tennis (CCE)";="1983";CCE;tennis;YES;-;-
+="a2600";="Tennis (Home Vision)";="1983";="Home Vision";tennis;YES;-;-
+="a2600";="Tennis (Milmar)";="19??";Milmar;tennis;YES;-;-
+="a2600";="Tennis (PAL)";="1981";Activision;tennis;YES;-;-
+="a2600";="Tennis (PAL) (Pet Boat)";="19??";="Pet Boat";tennis;YES;-;-
+="a2600";="Tennis (Star Game)";="19??";="Star Game";tennis;YES;-;-
+="a2600";="Tennis (Unknown)";="19??";-;tennis;YES;-;-
+="a2600";="Tennis (Zirok)";="19??";Zirok;tennis;YES;-;-
+="a2600";="The A-Team (Prototype 19840330)";="1984";Atari;-;YES;NTSC;-
+="a2600";="The A-Team (Prototype 19840508)";="1984";Atari;ateam;YES;NTSC;-
+="a2600";="The Activision Decathlon";="1983";Activision;-;YES;-;-
+="a2600";="The Activision Decathlon - Zehnkampf (PAL)";="1983";Activision;decathln;YES;-;-
+="a2600";="The Activision Decathlon (Alt)";="1983";Activision;decathln;YES;-;-
+="a2600";="The Alligator People (Prototype)";="1983";="20th Century Fox";-;YES;NTSC;-
+="a2600";="The Challenge of.... Nexar";="1982";Spectravideo;-;YES;-;-
+="a2600";="The Challenge of.... Nexar (PAL)";="1982";Spectravideo;nexar;YES;-;-
+="a2600";="The Challenge of.... Nexar (PAL) (Unknown)";="19??";-;nexar;YES;-;-
+="a2600";="The Earth Dies Screaming";="1983";="20th Century Fox Video Games";-;YES;-;-
+="a2600";="The Earth Dies Screaming (PAL)";="19??";-;earthdie;YES;-;-
+="a2600";="The Entity (Prototype)";="1983";="20th Century Fox Video Games";-;YES;-;-
+="a2600";="The Last Starfighter (Prototype)";="1984";Atari;-;YES;-;-
+="a2600";="The Lord of the Rings - Journey to Rivendell (Prototype, Alt)";="1983";="Parker Brothers";lotr;YES;-;-
+="a2600";="The Lord of the Rings - Journey to Rivendell (Prototype)";="1983";="Parker Brothers";-;YES;-;-
+="a2600";="The Music Machine";="1983";Sparrow;-;YES;-;-
+="a2600";="The Texas Chainsaw Massacre";="1983";="Wizard Video Games";-;YES;-;-
+="a2600";="The Year 1999 (PAL)";="19??";Suntek;-;YES;-;-
+="a2600";Threshold;="1982";Tigervision;-;YES;-;-
+="a2600";="Threshold (PAL)";="1982";Tigervision;threshol;YES;-;-
+="a2600";Thunderground;="1983";Sega;-;YES;-;-
+="a2600";="Thunderground (PAL) (Unknown)";="19??";-;thunderg;YES;-;-
+="a2600";="Thwocker (Prototype 19840409)";="1984";Activision;-;YES;-;-
+="a2600";="Time Pilot";="1983";Coleco;-;YES;-;-
+="a2600";="Time Race (PAL)";="1983";Goliath;-;YES;-;-
+="a2600";="Time Race (PAL) (Suntek)";="19??";Suntek;timerace;YES;-;-
+="a2600";="Time Warp";="1982";Funvision;-;YES;-;-
+="a2600";="Time Warp (CCE)";="1983";CCE;timewarp;YES;-;-
+="a2600";="Time Warp (PAL) (Unknown)";="19??";-;timewarp;YES;-;-
+="a2600";="Time Warp (Unknown)";="19??";-;timewarp;YES;-;-
+="a2600";="Title Match Pro Wrestling";="1987";="Absolute Entertainment";-;YES;-;-
+="a2600";="Title Match Pro Wrestling - Pro Wrestling (PAL)";="1987";="Absolute Entertainment";prowres;YES;-;-
+="a2600";="Tom Boy (PAL)";="19??";Suntek;tomboy;YES;-;-
+="a2600";="Tom Boy (Unknown)";="19??";-;-;YES;-;-
+="a2600";="Tomarc the Barbarian";="1983";Xonox;-;YES;-;-
+="a2600";="Tomcat - The F-14 Fighter Simulator";="1988";="Absolute Entertainment";-;YES;-;-
+="a2600";="Tooth Protectors";="1983";DSD-Camelot;-;YES;-;-
+="a2600";="Top Gun - Air Patrol (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Towering Inferno";="1982";="U.S. Games Corporation";-;YES;-;-
+="a2600";="Track and Field";="1984";Atari;-;YES;-;-
+="a2600";="Treasure Below (PAL)";="1983";="Video Gems";-;YES;-;-
+="a2600";="Treasure Hunting";="19??";Funvision;-;YES;-;-
+="a2600";="Treasure Island (PAL)";="19??";Suntek;-;YES;-;-
+="a2600";="Trick Shot";="1982";Imagic;-;YES;-;-
+="a2600";="Trick Shot (PAL)";="1982";Imagic;tricksht;YES;-;-
+="a2600";="TRON - Deadly Discs";="1982";="M Network";-;YES;-;-
+="a2600";="Tuby Bird (PAL)";="1983?";="Suntek, Quelle";-;YES;-;-
+="a2600";="Tunnel Runner";="1983";="CBS Electronics";-;YES;-;-
+="a2600";="Tunnel Runner  (Prototype)";="1983";="CBS Electronics";tunnelrn;YES;-;-
+="a2600";Turmoil;="1982";="20th Century Fox Video Games";-;YES;-;-
+="a2600";="Turmoil (PAL) (Unknown)";="19??";-;turmoil;YES;-;-
+="a2600";="Turmoill (CCE)";="1983";CCE;turmoil;YES;-;-
+="a2600";Tutankham;="1983";="Parker Brothers";-;YES;-;-
+="a2600";="Tutankham (PAL)";="1983";="Parker Brothers";tutankhm;YES;-;-
+="a2600";="UFO Patrol (PAL)";="19??";Suntek;-;YES;-;-
+="a2600";="Universal Chaos";="1989";Telegames;-;YES;-;-
+="a2600";="Universal Chaos (PAL)";="1989";Telegames;unichaos;YES;-;-
+="a2600";="Unknown Activision Game #1 (Prototype 19821022)";="19??";Activision;-;YES;-;-
+="a2600";="Unknown Activision Game #1 (Prototype 19821029)";="19??";Activision;="unkact1";YES;-;-
+="a2600";="Unknown Activision Game #2 (Prototype)";="1983";Activision;-;YES;-;-
+="a2600";="Unknown Universal Game (Prototype)";="1983";Universal;-;YES;-;-
+="a2600";="Up 'n Down";="1984";Sega;-;YES;-;-
+="a2600";Vanguard;="1982";Atari;-;YES;-;-
+="a2600";="Vanguard (CCE)";="19??";CCE;vanguard;YES;-;-
+="a2600";="Vanguard (PAL)";="1982";Atari;vanguard;YES;-;-
+="a2600";="Vanguard (Prototype)";="1982";Atari;vanguard;YES;-;-
+="a2600";="Vanguard (VGS)";="19??";VGS;vanguard;YES;-;-
+="a2600";="Venetian Blinds Demo";="1982";Activision;-;YES;-;-
+="a2600";Venture;="1982";Coleco;-;YES;-;-
+="a2600";="Venture (Atari)";="1987";Atari;venture;YES;-;-
+="a2600";="Venture (PAL)";="1982";="CBS Electronics";venture;YES;-;-
+="a2600";="Viagem Espacial";="19??";Dismac;-;YES;-;-
+="a2600";="Video Checkers - Atari Video Checkers (PAL)";="1980";Atari;videochk;YES;-;-
+="a2600";="Video Checkers - Checkers - Atari Video Checkers";="1980";Atari;-;YES;-;-
+="a2600";="Video Chess";="1979";Atari;-;YES;-;-
+="a2600";="Video Chess (PAL)";="1979";Atari;videochs;YES;-;-
+="a2600";="Video Chess (PAL) (Unknown)";="19??";-;videochs;YES;-;-
+="a2600";="Video Cube (CCE)";="19??";CCE;-;YES;-;-
+="a2600";="Video Jogger";="1983";="Exus Corporation";-;YES;-;-
+="a2600";="Video Life";="1981";CommaVid;-;YES;-;-
+="a2600";="Video Life (Alt)";="1981";CommaVid;videolif;YES;-;-
+="a2600";="Video Olympics - Pong Sports";="1977";Atari;-;YES;-;-
+="a2600";="Video Olympics (PAL)";="1977";Atari;videolym;YES;-;-
+="a2600";="Video Pinball - Arcade Pinball";="1981";Atari;-;YES;-;-
+="a2600";="Video Pinball (PAL)";="1981";Atari;videopin;YES;-;-
+="a2600";="Video Pinball (PAL) (Unknown)";="19??";-;videopin;YES;-;-
+="a2600";="Video Reflex";="1983";="Exus Corporation";-;YES;-;-
+="a2600";="Volleyball (Digitel)";="1983";Digitel;rsvolley;YES;-;-
+="a2600";="Volleyball (Milmar)";="19??";Milmar;rsvolley;YES;-;-
+="a2600";="Volleyball (PAL) (Quelle)";="1983";Quelle;rsvolley;YES;-;-
+="a2600";="Volleyball (Robby)";="19??";Robby;rsvolley;YES;-;-
+="a2600";="Vom Himmel durch die Hoelle (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";Wabbit;="1982";Apollo;-;YES;-;-
+="a2600";="Walker (PAL)";="19??";Suntek;-;YES;-;-
+="a2600";="Walker (PAL) (Alt)";="19??";Suntek;walker;YES;-;-
+="a2600";="Wall Ball";="1983";="Avalon Hill";-;YES;-;-
+="a2600";="Wall Break (PAL)";="1983";="Home Vision";-;YES;-;-
+="a2600";="Wall Break (Unknown)";="19??";-;wallbrek;YES;-;-
+="a2600";="Wall Defender (PAL)";="19??";HES;wallbrek;YES;-;-
+="a2600";Wall-Defender;="1983";Bomb;wallbrek;YES;-;-
+="a2600";="War 2000 (PAL)";="1983";="Home Vision";astrowar;YES;-;-
+="a2600";Warlords;="1981";Atari;-;YES;-;-
+="a2600";="Warlords (PAL)";="1981";Atari;warlords;YES;-;-
+="a2600";Warplock;="1982";="Data Age";-;YES;-;-
+="a2600";="Warplock (PAL)";="1983";Gameworld;warplock;YES;-;-
+="a2600";="Weltraumtunnel (PAL)";="1983";Quelle;-;YES;-;-
+="a2600";="Westward Ho (PAL)";="1982";PlayAround;-;YES;-;-
+="a2600";="Wing War (PAL)";="1983";Imagic;-;YES;-;-
+="a2600";="Wings (Prototype 19830603)";="1983";="CBS Electronics";wings;YES;-;-
+="a2600";="Wings (Prototype 19831010)";="1983";="CBS Electronics";-;YES;-;-
+="a2600";="Winter Games";="1987";Epyx;-;YES;-;-
+="a2600";="Winter Games (PAL)";="1987";Epyx;wingames;YES;-;-
+="a2600";="Wizard (Prototype, Alt)";="1980";Atari;wizard;YES;-;-
+="a2600";="Wizard (Prototype)";="1980";Atari;-;YES;-;-
+="a2600";="Wizard of Wor";="1982";="CBS Electronics";-;YES;-;-
+="a2600";="Wizard of Wor (PAL)";="1982";="CBS Electronics";wow;YES;-;-
+="a2600";="Word Zapper";="1982";="U.S. Games Corporation";-;YES;-;-
+="a2600";="Word Zapper (PAL) (Unknown)";="19??";-;wordzap;YES;-;-
+="a2600";="Word Zapper (Unknown)";="19??";-;wordzap;YES;-;-
+="a2600";="Words-Attack (PAL) (Prototype)";="1983";="Tang's Electronic Co.";-;YES;-;-
+="a2600";="World End (PAL)";="1983";="Home Vision";-;YES;-;-
+="a2600";="Worm War I";="1982";="20th Century Fox Video Games";-;YES;-;-
+="a2600";="Worm War I (CCE)";="1983";CCE;wormwar;YES;-;-
+="a2600";="Worm War I (PAL) (Unknown)";="19??";-;wormwar;YES;-;-
+="a2600";X-Man;="1983";="Universal Gamex Corporation";-;YES;-;-
+="a2600";="X-Man (PAL)";="1983";="Universal Gamex Corporation";xman;YES;-;-
+="a2600";="X'Mission (PAL)";="19??";-;-;YES;-;-
+="a2600";Xenophobe;="1990";Atari;-;YES;-;-
+="a2600";="Xenophobe (PAL)";="1990";Atari;xenophob;YES;-;-
+="a2600";="Xevious (CCE)";="19??";CCE;xevious;YES;-;-
+="a2600";="Xevious (Prototype 19830525)";="1983";Atari;xevious;YES;-;-
+="a2600";="Xevious (Prototype 19830802)";="1983";Atari;-;YES;-;-
+="a2600";="Yars' Revenge";="1982";Atari;-;YES;-;-
+="a2600";="Yars' Revenge (PAL)";="1982";Atari;yarsrev;YES;-;-
+="a2600";="Yars' Revenge (Prototype, 09-01-81)";="1982";Atari;yarsrev;YES;-;-
+="a2600";Z-Tack;="1983";Bomb;baseatak;YES;NTSC;-
+="a2600";Zaxxon;="1982";Coleco;-;YES;-;-
+="a2600";="Zaxxon (PAL)";="1982";="CBS Electronics";zaxxon;YES;-;-
+="a2600";="Zoo Keeper Sounds (Prototype)";="1984";Atari;-;YES;-;-
+="a2600_cass";="Communist Mutants from Space";="1982";="Arcadia Corporation";-;YES;-;-
+="a2600_cass";="Communist Mutants from Space (PAL)";="1982";="Starpath Corporation";commumut;YES;-;-
+="a2600_cass";="Communist Mutants from Space (Preview)";="1982";="Arcadia Corporation";commumut;YES;-;-
+="a2600_cass";="Communist Mutants from Space (Preview) (PAL)";="1982";="Starpath Corporation";commumut;YES;-;-
+="a2600_cass";Dragonstomper;="1982";="Starpath Corporation";-;YES;-;-
+="a2600_cass";="Dragonstomper (PAL)";="1982";="Starpath Corporation";dstomper;YES;-;-
+="a2600_cass";="Dragonstomper (Preview)";="1982";="Starpath Corporation";dstomper;YES;-;-
+="a2600_cass";="Dragonstomper (Preview) (PAL)";="1982";="Starpath Corporation";dstomper;YES;-;-
+="a2600_cass";="Escape from the Mindmaster";="1982";="Starpath Corporation";-;YES;-;-
+="a2600_cass";="Escape from the Mindmaster (PAL)";="1982";="Starpath Corporation";mindmstr;YES;-;-
+="a2600_cass";="Escape from the Mindmaster (Preview)";="1982";="Starpath Corporation";mindmstr;YES;-;-
+="a2600_cass";="Escape from the Mindmaster (Preview) (PAL)";="1982";="Starpath Corporation";mindmstr;YES;-;-
+="a2600_cass";="Excalibur (Prototype, Alt)";="1982";="Arcadia Corporation";dstomper;YES;-;-
+="a2600_cass";="Excalibur (Prototype, v. 36)";="1982";="Arcadia Corporation";dstomper;YES;-;-
+="a2600_cass";="Excalibur (Prototype, v. 39)";="1982";="Arcadia Corporation";dstomper;YES;-;-
+="a2600_cass";="Excalibur (Prototype)";="1982";="Arcadia Corporation";dstomper;YES;-;-
+="a2600_cass";Fireball;="1982";="Arcadia Corporation";-;YES;-;-
+="a2600_cass";="Fireball (PAL)";="1982";="Starpath Corporation";fireball;YES;-;-
+="a2600_cass";="Fireball (Preview)";="1982";="Arcadia Corporation";fireball;YES;-;-
+="a2600_cass";="Fireball (Preview) (PAL)";="1982";="Starpath Corporation";fireball;YES;-;-
+="a2600_cass";="Fireball (Prototype)";="1982";="Arcadia Corporation";fireball;YES;-;-
+="a2600_cass";="Killer Satellites";="1983";="Starpath Corporation";-;YES;-;-
+="a2600_cass";="Killer Satellites (PAL)";="1983";="Starpath Corporation";killsat;YES;-;-
+="a2600_cass";="Killer Satellites (Prototype)";="1983";="Starpath Corporation";killsat;YES;-;-
+="a2600_cass";="Labyrinth (Prototype, Alt)";="1982";="Arcadia Corporation";mindmstr;YES;-;-
+="a2600_cass";="Labyrinth (Prototype)";="1982";="Arcadia Corporation";mindmstr;YES;-;-
+="a2600_cass";="Meteoroids (Prototype)";="1982";="Arcadia Corporation";suicidem;YES;-;-
+="a2600_cass";="Party Mix";="1983";="Starpath Corporation";-;YES;-;-
+="a2600_cass";="Party Mix (PAL)";="1983";="Starpath Corporation";partymix;YES;-;-
+="a2600_cass";="Party Mix (Preview)";="1983";="Starpath Corporation";partymix;YES;-;-
+="a2600_cass";="Party Mix (Preview) (PAL)";="1983";="Starpath Corporation";partymix;YES;-;-
+="a2600_cass";="Phaser Patrol";="1982";="Arcadia Corporation";-;YES;-;-
+="a2600_cass";="Phaser Patrol (PAL)";="1982";="Starpath Corporation";ppatrol;YES;-;-
+="a2600_cass";="Phaser Patrol (Prototype, Alt)";="1982";="Arcadia Corporation";ppatrol;YES;-;-
+="a2600_cass";="Phaser Patrol (Prototype)";="1982";="Arcadia Corporation";ppatrol;YES;-;-
+="a2600_cass";="Rabbit Transit";="1983";="Starpath Corporation";-;YES;-;-
+="a2600_cass";="Rabbit Transit (PAL)";="1983";="Starpath Corporation";rabbit;YES;-;-
+="a2600_cass";="Rabbit Transit (Preview)";="1983";="Starpath Corporation";rabbit;YES;-;-
+="a2600_cass";="Suicide Mission";="1982";="Arcadia Corporation";-;YES;-;-
+="a2600_cass";="Suicide Mission (PAL)";="1982";="Starpath Corporation";suicidem;YES;-;-
+="a2600_cass";="Suicide Mission (Preview)";="1982";="Arcadia Corporation";suicidem;YES;-;-
+="a2600_cass";="Suicide Mission (Preview) (PAL)";="1982";="Starpath Corporation";suicidem;YES;-;-
+="a2600_cass";="Suicide Mission (Prototype)";="1982";="Arcadia Corporation";suicidem;YES;-;-
+="a2600_cass";="Survival Island";="1983";="Starpath Corporation";-;YES;-;-
+="a2600_cass";="Survival Island (PAL)";="1983";="Starpath Corporation";survival;YES;-;-
+="a2600_cass";="Sweat! The Decathlon Game (Prototype)";="1983";="Starpath Corporation";-;YES;-;-
+="a2600_cass";="Sword of Saros";="1983";="Starpath Corporation";-;YES;-;-
+="a2600_cass";="Sword of Saros (PAL)";="1983";="Starpath Corporation";saros;YES;-;-
+="a2600_cass";="The Official Frogger";="1983";="Starpath Corporation";-;YES;-;-
+="a2600_cass";="The Official Frogger (PAL)";="1983";="Starpath Corporation";offifrog;YES;-;-
+="a2600_cass";="The Official Frogger (Preview)";="1983";="Starpath Corporation";offifrog;YES;-;-
