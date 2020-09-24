@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Konami - Picno</name>
+		<description>Konami - Picno</description>
+		<version>20200824-120640</version>
+		<author>relax, TeamEurope, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>http://www.no-intro.org</url>
+	</header>
+	<game name="Anime Box (Japan)">
+		<description>Anime Box (Japan)</description>
+		<game_id>RX112</game_id>
+		<rom name="Anime Box (Japan).bin" size="524288" crc="42A6B05C" md5="60FE7EAE6D99E48EC9E5035BC514485C" sha1="29AE55692C115B5F311F2C2A12888E8FFF17CED5" status="verified" serial="ZPJ112"/>
+	</game>
+	<game name="Anime Enikki (Japan)">
+		<description>Anime Enikki (Japan)</description>
+		<game_id>RX106</game_id>
+		<rom name="Anime Enikki (Japan).bin" size="524288" crc="AA334046" md5="5620F34DF84B06F41156019973AB38C8" sha1="EE3F37C4A9256C1BE446FC4EA877DA1BE1CF04D6" status="verified" serial="ZPJ006"/>
+	</game>
+	<game name="Dokkin Shinri Game (Japan)">
+		<description>Dokkin Shinri Game (Japan)</description>
+		<game_id>RX115</game_id>
+		<rom name="Dokkin Shinri Game (Japan).bin" size="524288" crc="CDC9D45E" md5="20E89B2371D32449704A764763BC10F8" sha1="E6085B05888280B4E411BEDDAC382B2242E239D1" status="verified" serial="ZPJ115"/>
+	</game>
+	<game name="Fushigi no Kuni no Alice (Japan)">
+		<description>Fushigi no Kuni no Alice (Japan)</description>
+		<game_id>RX103</game_id>
+		<rom name="Fushigi no Kuni no Alice (Japan).bin" size="524288" crc="0DDE07A2" md5="72105206EF35242D8198E535C28F4C31" sha1="4BD11755DF05D7E4CBB76FFFCC215EE91BA96D50" status="verified" serial="ZPJ002"/>
+	</game>
+	<game name="Hello Kitty no Eikaiwa (Japan)">
+		<description>Hello Kitty no Eikaiwa (Japan)</description>
+		<game_id>RX121</game_id>
+		<rom name="Hello Kitty no Eikaiwa (Japan).bin" size="524288" crc="30308638" md5="91A6624A6358141E77C248B39F843D8C" sha1="A29D726ECB73262DD8E3FDABB35670BDF2C5CE1D" status="verified" serial="ZPJ121"/>
+	</game>
+	<game name="Kanji Club (Japan)">
+		<description>Kanji Club (Japan)</description>
+		<game_id>RX116</game_id>
+		<rom name="Kanji Club (Japan).bin" size="524288" crc="78B6EB10" md5="841D7F29AA916C8AA3B08F31D739290D" sha1="DAE38FBEEB0B411E849A800FE12AD1D1D42F9A99" status="verified" serial="ZPJ116"/>
+	</game>
+	<game name="Kiiroi Kyouryuu-kun Parasa no Obake Taiji (Japan)">
+		<description>Kiiroi Kyouryuu-kun Parasa no Obake Taiji (Japan)</description>
+		<game_id>RX111</game_id>
+		<rom name="Kiiroi Kyouryuu-kun Parasa no Obake Taiji (Japan).bin" size="524288" crc="C2B1A5AB" md5="FADEB1EAC4259422CF4C5542B3CB4546" sha1="3AF4124D16FBD66805D26B7DDF9B6BCC8F5D07F5" status="verified" serial="ZPJ111"/>
+	</game>
+	<game name="Montage (Japan)">
+		<description>Montage (Japan)</description>
+		<game_id>RX102</game_id>
+		<rom name="Montage (Japan).bin" size="262144" crc="014B1DA5" md5="D48B83AE10540AE409F73F9762C62874" sha1="718000598DA119FDE15899E0B746E0D1B3C9B038" status="verified" serial="ZPJ001"/>
+	</game>
+	<game name="Nontan to Issho Anime Stamp (Japan)">
+		<description>Nontan to Issho Anime Stamp (Japan)</description>
+		<game_id>RX119</game_id>
+		<rom name="Nontan to Issho Anime Stamp (Japan).bin" size="524288" crc="1E4A8B5C" md5="CF806EC67CB104BED8570176977B7415" sha1="D5F67F2249F6662BA6209A8C6A91B882DDFD84A0" status="verified" serial="ZPJ119"/>
+	</game>
+	<game name="Paint Ehon - Cinderella Monogatari (Japan)">
+		<description>Paint Ehon - Cinderella Monogatari (Japan)</description>
+		<game_id>RX123</game_id>
+		<rom name="Paint Ehon - Cinderella Monogatari (Japan).bin" size="524288" crc="560E0ECA" md5="D12DFEF285D66146A89FDDDE4D77BC0A" sha1="4D96991A025E2811727E7834F2C8A83841ECCDB3" status="verified" serial="ZPJ123"/>
+	</game>
+	<game name="Picno ArtPuzzle (Japan)">
+		<description>Picno ArtPuzzle (Japan)</description>
+		<game_id>RX109</game_id>
+		<rom name="Picno ArtPuzzle (Japan).bin" size="1048576" crc="6DE0342B" md5="5F4BA9C1305187388993D0A386CC219E" sha1="43534C4BEB67036A5225634FA72567D93C4EE35E" status="verified" serial="ZPJ109"/>
+	</game>
+	<game name="Picno de 123 (Japan)">
+		<description>Picno de 123 (Japan)</description>
+		<game_id>RX108</game_id>
+		<rom name="Picno de 123 (Japan).bin" size="1048576" crc="CA4A4D22" md5="4EC3BF958B41F10A1771ED7341699A6F" sha1="8EE0B6B6C69EA5D49472B56D6E00C1D5FB2FFDAA" status="verified" serial="ZPJ008"/>
+	</game>
+	<game name="Picno de ABC (Japan)">
+		<description>Picno de ABC (Japan)</description>
+		<game_id>RX105</game_id>
+		<rom name="Picno de ABC (Japan).bin" size="524288" crc="590E3BD8" md5="73F3369806456AFB6B930E97109B1B62" sha1="05A1C22AA916C8177AB743EF633BAE31CB28C0DB" status="verified" serial="ZPJ105"/>
+	</game>
+	<game name="Picno de AIUEO (Japan)">
+		<description>Picno de AIUEO (Japan)</description>
+		<game_id>RX107</game_id>
+		<rom name="Picno de AIUEO (Japan).bin" size="1048576" crc="F56E48BC" md5="F6BF0FF30A9593F55F529CA9DA20250C" sha1="AA0EC867183E799C0DED1CFDAAB92250A6FB6556" status="verified" serial="ZPJ107"/>
+	</game>
+	<game name="Real Montage (Japan)">
+		<description>Real Montage (Japan)</description>
+		<game_id>RX110</game_id>
+		<rom name="Real Montage (Japan).bin" size="524288" crc="3FA2DE37" md5="1B7AF218FF91BEB4154278C986B2155C" sha1="27B99BC33EC00B025188039C434DA5AD425492DC" status="verified" serial="ZPJ110"/>
+	</game>
+	<game name="Shirayuki Hime Monogatari (Japan)">
+		<description>Shirayuki Hime Monogatari (Japan)</description>
+		<game_id>RX118</game_id>
+		<rom name="Shirayuki Hime Monogatari (Japan).bin" size="524288" crc="6720748F" md5="5E6C7CAA2F878C09F254C1AAEFCAEA69" sha1="CB6C1A4D53BB583E2114923F24AB2383A5E078C4" status="verified" serial="ZPJ118"/>
+	</game>
+	<game name="Son Goku no Boken (Japan)">
+		<description>Son Goku no Boken (Japan)</description>
+		<game_id>RX122</game_id>
+		<rom name="Son Goku no Boken (Japan).bin" size="524288" crc="C3F8338D" md5="3F89A9B45EAEA170276A9149BF490179" sha1="F3F7508ACB20A887D4CC9C831E2CF336656A3871" status="verified" serial="ZPJ122"/>
+	</game>
+</datafile>

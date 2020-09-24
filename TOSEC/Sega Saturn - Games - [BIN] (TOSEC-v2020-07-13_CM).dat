@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Saturn - Games - [BIN]</name>
+		<description>Sega Saturn - Games - [BIN] (TOSEC-v2020-07-13)</description>
+		<category>TOSEC-ISO</category>
+		<version>2020-07-13</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Batman Forever - The Arcade Game v1.000 (1996)(Acclaim)(PAL)[tr pt Monkey's Traduções]">
+		<description>Batman Forever - The Arcade Game v1.000 (1996)(Acclaim)(PAL)[tr pt Monkey's Traduções]</description>
+		<rom name="Batman Forever - The Arcade Game v1.000 (1996)(Acclaim)(PAL)(Track 1 of 2)[tr pt Monkey's Traduções].bin" size="28461552" crc="221155fa" md5="3516627df074896102ef9f14bdcab0c2" sha1="32519320f0deec0f7e80122841f2c35e252a0136"/>
+		<rom name="Batman Forever - The Arcade Game v1.000 (1996)(Acclaim)(PAL)(Track 2 of 2)[tr pt Monkey's Traduções].bin" size="1058400" crc="cb94f153" md5="30ced211c681baca324e02ef84899fbe" sha1="152037fb3cddd669247f76e27a172ed914717713"/>
+		<rom name="Batman Forever - The Arcade Game v1.000 (1996)(Acclaim)(PAL)[tr pt Monkey's Traduções].cue" size="354" crc="50fb17fb" md5="3c554dced8ea6d8ff2c0911cb560306d" sha1="b2d14d7523e0dd838181a2fb08cb88844c1041ed"/>
+	</game>
+	<game name="Legend of Oasis, The v1.002 (1996)(Sega)(US)[tr pt Waldsonglym]">
+		<description>Legend of Oasis, The v1.002 (1996)(Sega)(US)[tr pt Waldsonglym]</description>
+		<rom name="Legend of Oasis, The v1.002 (1996)(Sega)(US)(Track 1 of 2)[tr pt Waldsonglym].bin" size="81986016" crc="678a7bf1" md5="3fbd2e0082bdd0fac6a1d85fa1f02db8" sha1="3c8f995cbd689441790de0d5d2f3b3dcd261b3f1"/>
+		<rom name="Legend of Oasis, The v1.002 (1996)(Sega)(US)(Track 2 of 2)[tr pt Waldsonglym].bin" size="1058400" crc="38c1368d" md5="32c4e767dae54b54df39ea5002c0993f" sha1="223dad72a545c89d251d0e8f42c00a020579536b"/>
+		<rom name="Legend of Oasis, The v1.002 (1996)(Sega)(US)[tr pt Waldsonglym].cue" size="304" crc="a39e4234" md5="151ec4637e18f6d805f66e67ca71c5d5" sha1="d0c26856832ce0e2bf01444618af2308bec0eece"/>
+	</game>
+	<game name="Mortal Kombat II v1.000 (1996)(Acclaim)(PAL)[tr pt-partial CNT]">
+		<description>Mortal Kombat II v1.000 (1996)(Acclaim)(PAL)[tr pt-partial CNT]</description>
+		<rom name="Mortal Kombat II v1.000 (1996)(Acclaim)(PAL)(Track 1 of 2)[tr pt-partial CNT].bin" size="30782976" crc="a2646db1" md5="1999a50dbe33679aca88622655f0de7a" sha1="b22ee622947310cd33eea40dff0bdb97c5b088be"/>
+		<rom name="Mortal Kombat II v1.000 (1996)(Acclaim)(PAL)(Track 2 of 2)[tr pt-partial CNT].bin" size="1056048" crc="a8bfd17e" md5="d982b419e558da63a6305c4cb9ba4915" sha1="34d8ad0005ea6bc89a74cbc904cd41e62ead23e2"/>
+		<rom name="Mortal Kombat II v1.000 (1996)(Acclaim)(PAL)[tr pt-partial CNT].cue" size="304" crc="ad748c56" md5="90b39f3976ef9ad75b070c2790eef556" sha1="a0f345709ef73912e4b061e0d4ba2ed2692c3cc0"/>
+	</game>
+	<game name="Rayman v1.000 (1995)(Ubi Soft)(US)[tr pt Waldsonglym]">
+		<description>Rayman v1.000 (1995)(Ubi Soft)(US)[tr pt Waldsonglym]</description>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 01 of 51)[tr pt Waldsonglym].bin" size="86586528" crc="5770a713" md5="70d98727f5f5b77962589ae05f99ac38" sha1="4757907b6138992c0d45be13a0d9f8c68804175c"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 02 of 51)[tr pt Waldsonglym].bin" size="12846624" crc="902b0e52" md5="a90ed225069aeae4a2a36baea3cc6886" sha1="7b41158265e77143f9445bf272af3b27a5238038"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 03 of 51)[tr pt Waldsonglym].bin" size="11223744" crc="9fb5010d" md5="b191f2121109245c5d572732a1063e1a" sha1="e8cf535681ad1c640707fc477cc70885ab562c69"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 04 of 51)[tr pt Waldsonglym].bin" size="12145728" crc="2dec9077" md5="94339c92f15f2ec2943a42605f3c6d06" sha1="ca74030cf1786d9e8d1590ef76c896502bf3765f"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 05 of 51)[tr pt Waldsonglym].bin" size="11741184" crc="6b7ccdd0" md5="5e8e256e85e8afe1e2634470f2917b5b" sha1="e55cc6364c591a95d567cab638b9eaf40d91accf"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 06 of 51)[tr pt Waldsonglym].bin" size="9384480" crc="05c33e36" md5="09d9c0112ce3058ff5fb4e49ac21c40a" sha1="f419b82fa206f6498394930bb8a468a0e7043546"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 07 of 51)[tr pt Waldsonglym].bin" size="10028928" crc="85b5fc99" md5="5302507b437b9a252896e8b99d9e3a4c" sha1="6fb119f320ff5a911287051c6487d15192656218"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 08 of 51)[tr pt Waldsonglym].bin" size="15330336" crc="bccc4f64" md5="946b02656d1f604db7fc1da9fc859b6e" sha1="11ae1558c333152e4b43a6b5705e31d785ba940f"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 09 of 51)[tr pt Waldsonglym].bin" size="11458944" crc="921efade" md5="4b9a5a68cc6d7074753da5d73f24bb1d" sha1="5390c53d43d946c5957d7c9af38397d2af6ce74e"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 10 of 51)[tr pt Waldsonglym].bin" size="7818048" crc="521caa4c" md5="0c1e9dc330463cc2d11bb7e599ee98b7" sha1="269cb0695d1f794fda017485ddd0f9c6aa9337e7"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 11 of 51)[tr pt Waldsonglym].bin" size="14596512" crc="a771843a" md5="8f523a5bc8676c2b5d7717a42328b037" sha1="9d91c61e62a8799d37fc2b60503c973b76d1d567"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 12 of 51)[tr pt Waldsonglym].bin" size="7651056" crc="eac331f4" md5="40a73acade6421c45d4d02d50d1299c4" sha1="d4a5dbdc60d1b6dd25724d0be0adb3fd18f59410"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 13 of 51)[tr pt Waldsonglym].bin" size="10979136" crc="9b7afef4" md5="bd417a41cff854ef742074e0632d300d" sha1="f1849f7bf1bb1901731ace53bc66a6f6abc42c60"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 14 of 51)[tr pt Waldsonglym].bin" size="10957968" crc="0ab768f9" md5="922230f97a84bb97ce9adb862983562c" sha1="1fe06dc6cbf82892057ede77760083f637327be9"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 15 of 51)[tr pt Waldsonglym].bin" size="6771408" crc="7c86b96c" md5="405b41af14a65c595cc983373a78f291" sha1="e6a62c79507a86c7b513278bac8c62f9def31459"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 16 of 51)[tr pt Waldsonglym].bin" size="1999200" crc="503bf239" md5="2373d70758f9931dcc2ef02b935f2d56" sha1="b92b343909a034b0edf50abf1dc005051ebd0604"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 17 of 51)[tr pt Waldsonglym].bin" size="11129664" crc="3848c3a3" md5="bdd1c7d5b53050d6c714a6dc49d5fd1a" sha1="2db8c59fe6083ba15da3e7a37676b2eefb377169"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 18 of 51)[tr pt Waldsonglym].bin" size="12093984" crc="ccd53b7f" md5="22f3a7249f6b9c4d4cb80ca51d4ab47a" sha1="f1d7198bed456364352dba8113010e4224d57453"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 19 of 51)[tr pt Waldsonglym].bin" size="12209232" crc="eeade0e2" md5="db35fddd0df430bdb85afda1af857a43" sha1="cf626c9c3d573aee37ba3bb39be72ab122b5c69b"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 20 of 51)[tr pt Waldsonglym].bin" size="11338992" crc="017d4eb5" md5="03d582356221b7734761b415d233d348" sha1="d3faf60da9b4b1dad945a7eb28346b5029b441fd"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 21 of 51)[tr pt Waldsonglym].bin" size="11618880" crc="fc519469" md5="f0b1c151b3c62acfe83539b0922eeb93" sha1="740c536677cc6e4694acb083e8cf7dd7ed6f2547"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 22 of 51)[tr pt Waldsonglym].bin" size="10445232" crc="c05c217f" md5="32212568b504982bb4551aa7e59ae126" sha1="e87ba96801389414ddd7d8c6e964b088c64a74e8"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 23 of 51)[tr pt Waldsonglym].bin" size="12176304" crc="ab4f3f8f" md5="dfe9b278c1d49d0218530c612ec5de13" sha1="aeb874940b18a556dfb9a5251b80e4a569380694"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 24 of 51)[tr pt Waldsonglym].bin" size="11680032" crc="de195888" md5="bca2cd5e153e42df05213c6a4432bfbf" sha1="552cae1cd4e0dfd2d6e1d335424dc5d5b598f003"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 25 of 51)[tr pt Waldsonglym].bin" size="11522448" crc="ca45c3a6" md5="0a68f2422bfa4025887f6cc83918b7c7" sha1="64eaa88515485d3d2dd5394414ea042cf3283b7b"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 26 of 51)[tr pt Waldsonglym].bin" size="1495872" crc="2ad3868b" md5="91422e5c62b4219e0756cfeb4c4ccb63" sha1="577c2259230dd90ba95a604b56d2d2c51767b680"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 27 of 51)[tr pt Waldsonglym].bin" size="1281840" crc="854f12e2" md5="2d2d71eba41fb112bbd7e82837e6790a" sha1="5f1faad7277f6c6bc2b5bea29d0a503811c76277"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 28 of 51)[tr pt Waldsonglym].bin" size="4990944" crc="881a06ba" md5="531ef8b0cf8050aea1f62dc7d1106b26" sha1="66aee21c6900e235af0b45a41222e69004874a9d"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 29 of 51)[tr pt Waldsonglym].bin" size="12651408" crc="baf4350e" md5="0adb3885a8a36f41845578ac96e87672" sha1="aab7dfa3959784ffe7f31219356754df33747130"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 30 of 51)[tr pt Waldsonglym].bin" size="10838016" crc="d65896a2" md5="1c4c1bc35e7f1aacbb3573d2bfa1c2a6" sha1="814d77bb7295945fed3cd7074287c0f24e35c969"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 31 of 51)[tr pt Waldsonglym].bin" size="12587904" crc="49b557ff" md5="137f7f288f08fb382b61fc2cdc7c1ea1" sha1="41c7cdc9e1e14eb4f1bbccde67721ecfdf67c88a"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 32 of 51)[tr pt Waldsonglym].bin" size="5804736" crc="e57f0f68" md5="6c823d91c27a479daf508dc9c3464a40" sha1="aeaf6a11f171f1244c004a693d77468153f6f3ea"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 33 of 51)[tr pt Waldsonglym].bin" size="11783520" crc="c844c4fe" md5="0a9c27bf258d91d76bcf90bef671a2b7" sha1="089f7ea41fd6b7af7049e88b9af3fc5afc74d7e0"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 34 of 51)[tr pt Waldsonglym].bin" size="11955216" crc="0f1a0904" md5="770b58067f662118768f4615586f637f" sha1="fbbb657c1adc9a0b19e376f1091ca3af4fea3646"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 35 of 51)[tr pt Waldsonglym].bin" size="11919936" crc="cbbbcafe" md5="fd65fc395028c4eb55493048f21415ab" sha1="c9044b4482a674a4c3d0426d24d110f22b7f76b3"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 36 of 51)[tr pt Waldsonglym].bin" size="12044592" crc="e24becd0" md5="707a23b47e5d7507cade20bd3fb3e08e" sha1="3c23889aa8779a2bd6f10026603325e06e0c6991"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 37 of 51)[tr pt Waldsonglym].bin" size="9996000" crc="072b7610" md5="20038e84b44683a716b9b9efb8a41b23" sha1="ac715c5ae97e930cceca3b716a30156b53404e17"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 38 of 51)[tr pt Waldsonglym].bin" size="11625936" crc="9c85627c" md5="87e3a6e5c59b11fd1e96a52845c5c11d" sha1="7d51a68e379d67c7f2be8766e5ba4dff32bb4c75"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 39 of 51)[tr pt Waldsonglym].bin" size="10990896" crc="e7cbfeb0" md5="6e4959f2c84b1f5d2369b66c39db7611" sha1="ed8390b8200144fa93348eb8486dd8bb8bd832b8"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 40 of 51)[tr pt Waldsonglym].bin" size="12225696" crc="03300578" md5="2d758eb2e58ee4a917080476fe2f0541" sha1="c5c08f93c1c8f1a8f54d78b4aabd75997a7e7eca"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 41 of 51)[tr pt Waldsonglym].bin" size="11270784" crc="a091fd76" md5="2a127264ffdbe21195504ffb3ddfc885" sha1="5ac967543c13482fcbb196fcd0d2b474ef10df2b"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 42 of 51)[tr pt Waldsonglym].bin" size="11341344" crc="f0b0ed0b" md5="c7def4945eda14356f75fca2e72cbf5f" sha1="b553272cf79a2673a7803d5285aa6941994637f8"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 43 of 51)[tr pt Waldsonglym].bin" size="11976384" crc="faef3ad5" md5="4ef349b74a055f5663944986969bdfa0" sha1="d810772a6cfc72e9caa1329d429c17a756a89a78"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 44 of 51)[tr pt Waldsonglym].bin" size="8144976" crc="0564d540" md5="a31e6210caa9036e0f67a40982d4978f" sha1="4a69c38783dbae3837cc325dd458bdf0ed59c5a8"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 45 of 51)[tr pt Waldsonglym].bin" size="10202976" crc="f788e3f1" md5="1333b959bd77729bd8468cc7bdcd50fe" sha1="865a47e27a98857889e0b08a4193907eabe6521b"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 46 of 51)[tr pt Waldsonglym].bin" size="11614176" crc="f07d5325" md5="ea16a112cbed5a1a95dd6ff98266c25a" sha1="778a2f8e39c08d86c919c18ab5217746863385b2"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 47 of 51)[tr pt Waldsonglym].bin" size="13587504" crc="3f6acaaa" md5="8a4fd0e56fdf3bf3ef038f0d8c446c28" sha1="38245abee63c43329844f355c4cc59cac6071289"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 48 of 51)[tr pt Waldsonglym].bin" size="5578944" crc="3bbda00e" md5="223578ef31e1c2bbb8c1950c2995904c" sha1="6d9a13b148812d98da283ca78b3793914a6774c9"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 49 of 51)[tr pt Waldsonglym].bin" size="10574592" crc="2e8e7298" md5="33798097dfe9cd90e8ddf35717e28a67" sha1="531d99eb62b7cb5ae06f3ef3c1f24ff9ac111b4d"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 50 of 51)[tr pt Waldsonglym].bin" size="6225744" crc="cb44ac76" md5="47917410619106bb896f496a1714d373" sha1="8aebaafd1f282ceb2bad026066fa75a725c7d1f6"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)(Track 51 of 51)[tr pt Waldsonglym].bin" size="11816448" crc="53c6f525" md5="e4b8ac8f09bf13beea92214863b64c73" sha1="d16293c2a3412518a5c7dd70c33d08fbc1c21781"/>
+		<rom name="Rayman v1.000 (1995)(Ubi Soft)(US)[tr pt Waldsonglym].cue" size="7808" crc="daf71024" md5="87f1aa93bfb2a93b70f823162d9e4f5e" sha1="a9ae01bd939d9b499e9ba710d8cc52ed164f91a4"/>
+	</game>
+</datafile>
